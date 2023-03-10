@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^([a-zA-Z\d_-]+)$ index.php?page=$1

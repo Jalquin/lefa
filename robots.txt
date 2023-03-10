@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /backup/*
+Allow: /
+
+Sitemap: https://www.topenistreda.cz/sitemap.xml
