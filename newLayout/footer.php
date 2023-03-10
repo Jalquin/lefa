@@ -3,46 +3,32 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-lg-4 col-md-6 footer-widget footer-about">
-                    <h3 class="widget-title">O nás</h3>
-                    <div class="footer-social">
-                        <ul>
-                            <li><a aria-label="Facebook" href="https://www.facebook.com/streda.topeni/"
-                                   target=_blank><i
-                                        class="fab fa-facebook-f"></i></a></li>
-                            <li><a aria-label="Instagram" href="https://www.instagram.com/topeni_streda/"
-                                   target=_blank><i
-                                        class="fab fa-instagram"></i></a></li>
-                        </ul>
-                    </div><!-- Footer social end -->
-                    <img alt="Topení Středa Logo" class="footer-logo" loading="lazy"
-                         src="images/logo_transparent_inverted.png">
-                    <p>Jsme rodinná firma působící v oblasti vytápění. Firemní hodnoty stavíme na poctivosti,
-                        vstřícnosti a profesionalitě. Dbáme na individuální přístup a nejlepší řešení.</p>
+                    <h3 class="widget-title">O nás <img alt="LEFA Servis Logo" class="footer-logo ml-5" loading="lazy"
+                                                        src="images/lefaservis_white.svg"></h3>
+
+                    <p>Firma LEFA SERVIS se vždy zaměřovala na poskytování vysoce kvalitních služeb, které se opírají o prvotřídní použité materiály.</p>
                 </div><!-- Col end -->
 
                 <div class="col-lg-4 col-md-6 footer-widget mt-5 mt-md-0">
-                    <h3 class="widget-title">Pracovní hodiny</h3>
+                    <h3 class="widget-title">Adresa</h3>
                     <div class="working-hours">
-                        Pracujeme 7 dní v týdnu, každý den kromě velkých svátků. V případě nouze nás kontaktujte
-                        pomocí naší Hotline a Kontaktního formuláře.
-                        <br><br> Pondělí- Pátek: <span class="text-right">6:00 - 22:00 </span>
-                        <br> Sobota: <span class="text-right">6:00 - 22:00</span>
-                        <br> Neděle a svátky: <span class="text-right">6:00 - 22:00</span>
+                        <b>Osobní návštěva možná jen po předchozí domluvě.</b><br>
+                        <br>
+                        <a href="https://goo.gl/maps/RWXPyaGwrZQLeWMD8" target="_blank">
+                            Budova DELTA A - 5. patro<br>
+                            Žukovského 888/2<br>
+                            161 00 Praha 6-Ruzyně
+                        </a>
                     </div>
                 </div><!-- Col end -->
 
                 <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
                     <h3 class="widget-title">Kontakty</h3>
                     <ul class="list-arrow">
-                        <li><a href="tel:+420777701531"><i class="fas fa-phone"></i> +420 777 701 531</a></li>
-                        <li><a href="mailto:obchod@topenistreda.cz"><i class="fas fa-envelope"></i>
-                                obchod@topenistreda.cz</a></li>
-                        <li><a href="https://maps.google.com/maps?q=Topení-Středa+s.r.o" target=”_blank”><i
-                                    class="fas fa-map-marker"></i> Střekovská 1345/16, Praha 8</a></li>
-                        <li><a href="https://maps.google.com/maps?q=Bříství+65,+Bříství" target=”_blank”><i
-                                    class="fas fa-map-marked"></i> Bříství 65, Bříství</a></li>
-                        <li><a href="https://maps.google.com/maps?q=Zadní+123,+Holohlavy" target=”_blank”><i
-                                    class="fas fa-map-marked"></i> Zadní 123, Holohlavy</a></li>
+                        <li><a href="tel:+420775914918"><i class="fas fa-phone"></i> +420 775 914 918</a></li>
+                        <li><a href="tel:+420603718044"><i class="fas fa-phone"></i> +420 603 718 044</a></li>
+                        <li><a href="mailto:info@lefaservis.cz"><i class="fas fa-envelope"></i>
+                                info@lefaservis.cz</a></li>
                     </ul>
                 </div><!-- Col end -->
             </div><!-- Row end -->

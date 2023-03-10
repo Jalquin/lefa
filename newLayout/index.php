@@ -2,16 +2,16 @@
 // Define the available pages and their corresponding template files
 $pages = array(
     'index' => 'home.php',
-    'about' => 'about.php',
-    'contact' => 'contact.php',
+    'o-nas' => 'about.php',
+    'kontakt' => 'contact.php',
     '404' => '404.php'
 );
 
 // Define the page titles
 $page_titles = array(
     'index' => '',
-    'about' => 'O nás',
-    'contact' => 'Kontakt',
+    'o-nas' => 'O nás',
+    'kontakt' => 'Kontakt',
     '404' => 'Stránka nenalezena'
 );
 
@@ -74,12 +74,12 @@ $template_file = 'templates/' . $pages[$page];
 // Include the header
 include('header.php');
 ?>
-
+<div class="margin-fix">
     <?php
     // Include the content
     include($template_file);
     ?>
-
+</div>
 <?php
 // Include the footer
 include('footer.php');

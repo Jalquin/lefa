@@ -55,10 +55,10 @@
                             </ul>
                             <ul class="nav navbar-nav float-right">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="tel:+420775914918"><i class="fa fa-phone"></i> 775 914 918</a>
+                                    <a class="nav-link" href="tel:+420775914918"><i class="fas fa-phone"></i> 775 914 918</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="mailto:info@lefaservis.cz"><i class="fa fa-envelope"></i> info@lefaservis.cz</a>
+                                    <a class="nav-link" href="mailto:info@lefaservis.cz"><i class="fas fa-envelope"></i> info@lefaservis.cz</a>
                                 </li>
                             </ul><!-- Ul end -->
                         </div>
