@@ -15,7 +15,7 @@
                         <b>Osobní návštěva možná jen po předchozí domluvě.</b><br>
                         <br>
                         <a href="https://goo.gl/maps/RWXPyaGwrZQLeWMD8" target="_blank">
-                            Budova DELTA A - 5. patro<br>
+                            <b>Budova DELTA A - 5. patro</b><br>
                             Žukovského 888/2<br>
                             161 00 Praha 6-Ruzyně
                         </a>
@@ -27,8 +27,7 @@
                     <ul class="list-arrow">
                         <li><a href="tel:+420775914918"><i class="fas fa-phone"></i> +420 775 914 918</a></li>
                         <li><a href="tel:+420603718044"><i class="fas fa-phone"></i> +420 603 718 044</a></li>
-                        <li><a href="mailto:info@lefaservis.cz"><i class="fas fa-envelope"></i>
-                                info@lefaservis.cz</a></li>
+                        <li><a href="mailto:info@lefaservis.cz"><i class="fas fa-envelope"></i> info@lefaservis.cz</a></li>
                     </ul>
                 </div><!-- Col end -->
             </div><!-- Row end -->
@@ -40,9 +39,7 @@
             <div class="row align-items-center">
                 <div class="col-md-12">
                     <div class="copyright-info">
-              <span>Copyright &copy; <script>
-                  document.write(new Date().getFullYear())
-                </script>, Návrh &amp; Kódování <a href="https://github.com/Jalquin">Jakub Červený</a></span>
+              <span>Copyright &copy; <script>document.write(new Date().getFullYear())</script>, Návrh &amp; Kódování <a href="https://github.com/Jalquin">Jakub Červený</a></span>
                     </div>
                 </div>
             </div><!-- Row end -->

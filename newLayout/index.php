@@ -74,7 +74,9 @@ $template_file = 'templates/' . $pages[$page];
 // Include the header
 include('header.php');
 ?>
-<div class="margin-fix">
+
+
+<div id="content">
     <?php
     // Include the content
     include($template_file);
@@ -102,6 +104,13 @@ include('footer.php');
 
     <!-- Template custom -->
     <script src="js/script.js"></script>
+    <script> // compensating body to the fixed navbar
+        // Get the height of the "navbar" element
+        const elemHeight = document.getElementById('navbar').offsetHeight;
+
+        // Set the padding top of "content" element as the same height
+        document.getElementById('content').style.paddingTop = elemHeight + 'px';
+    </script>
 
 </div><!-- Body inner end -->
 </body>

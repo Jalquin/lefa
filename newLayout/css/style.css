@@ -97,10 +97,6 @@ body {
     padding: 0;
 }
 
-.margin-fix{
-    margin-top: 58px;
-}
-
 .body-inner {
     position: relative;
     overflow: hidden;
@@ -128,7 +124,7 @@ a {
 
 a:hover {
     text-decoration: none;
-    color: #000;
+    color: var(--LEFA_white);
 }
 
 a.read-more {
@@ -964,6 +960,7 @@ ul.navbar-nav > li > a {
     letter-spacing: -0.2px;
     font-size: 14px;
     margin: 0;
+    line-height: 40px;
     padding: 30px 0;
     transition: 350ms;
 }
@@ -1001,7 +998,7 @@ ul.navbar-nav > li > a {
 
 .dropdown-menu {
     text-align: left;
-    background: #fff;
+    background: var(--LEFA_blue_light);
     z-index: 100;
     min-width: 200px;
     border-radius: 0;
@@ -1051,7 +1048,7 @@ ul.navbar-nav > li > a {
     padding: 15px 0;
     letter-spacing: 0;
     border-bottom: 1px solid #e5e5e5;
-    color: #333333;
+    color: var(--LEFA_white);
 }
 
 @media (max-width: 991px) {
