@@ -2,16 +2,16 @@
 // Define the available pages and their corresponding template files
 $pages = array(
     'index' => 'home.php',
-    'about' => 'about.php',
-    'contact' => 'contact.php',
+    'o-nas' => 'about.php',
+    'kontakt' => 'contact.php',
     '404' => '404.php'
 );
 
 // Define the page titles
 $page_titles = array(
     'index' => '',
-    'about' => 'O nás',
-    'contact' => 'Kontakt',
+    'o-nas' => 'O nás',
+    'kontakt' => 'Kontakt',
     '404' => 'Stránka nenalezena'
 );
 
@@ -75,11 +75,13 @@ $template_file = 'templates/' . $pages[$page];
 include('header.php');
 ?>
 
+
+<div id="content">
     <?php
     // Include the content
     include($template_file);
     ?>
-
+</div>
 <?php
 // Include the footer
 include('footer.php');
@@ -102,6 +104,13 @@ include('footer.php');
 
     <!-- Template custom -->
     <script src="js/script.js"></script>
+    <script> // compensating body to the fixed navbar
+        // Get the height of the "navbar" element
+        const elemHeight = document.getElementById('navbar').offsetHeight;
+
+        // Set the padding top of "content" element as the same height
+        document.getElementById('content').style.paddingTop = elemHeight + 'px';
+    </script>
 
 </div><!-- Body inner end -->
 </body>
