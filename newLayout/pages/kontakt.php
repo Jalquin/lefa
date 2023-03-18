@@ -1,8 +1,8 @@
 <section>
     <div class="row text-center">
         <div class="col-12">
-            <h1 class="section-title">Lenka Fabianková - LEFA SERVIS</h1>
-            <h2 class="column-title-small">IČO 18411380</h2>
+            <h1 class="section-title">Kontakt</h1>
+            <h2 class="column-title-small"><b>LEFA SERVIS</b> - Lenka Fabianková<br>IČO 18411380</h2>
             <h3 class="section-sub-title">Zapsaná v živnostenském rejstříku u Městského úřadu Praha 6</h3>
         </div>
     </div>
@@ -10,7 +10,7 @@
 
     <div class="row text-center">
 
-        <div class="col-md-5 mb-sm-2">
+        <div class="col-md-5 mb-2 mb-md-0">
             <div class="ts-service-box-bg">
                             <span class="ts-service-icon icon-round">
                                 <i class="fas fa-map-marker-alt mr-0"></i>

@@ -260,10 +260,9 @@ a:focus {
 }
 
 .section-sub-title {
-    font-size: 18px;
+    font-size: 12px;
     line-height: 28px;
     margin-bottom: 10px;
-    text-transform: uppercase;
     font-weight: 300;
 }
 
@@ -273,7 +272,8 @@ a:focus {
 }
 
 .column-title-small {
-    font-size: 20px;
+    font-size: 30px;
+    font-weight: 400;
 }
 
 /* Page content title */
@@ -680,8 +680,8 @@ ul.top-info li p.info-text {
 
 .active-png {
 
-    /*filter: brightness(0) saturate(100%) invert(43%) sepia(96%) saturate(1430%) hue-rotate(108deg) brightness(87%) contrast(102%);*/
-    /*-webkit-filter: brightness(0) saturate(100%) invert(43%) sepia(96%) saturate(1430%) hue-rotate(108deg) brightness(87%) contrast(102%);*/
+    filter: brightness(0) saturate(100%);
+    -webkit-filter: brightness(0) saturate(100%);
 
 
 }
