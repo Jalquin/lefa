@@ -7,7 +7,6 @@ jQuery(function ($) {
     $(window).on('scroll', function () {
 
 
-
         // Count Up
         function counter() {
             let oTop;

@@ -20,31 +20,52 @@
                                 <li class="nav-item"><a class="nav-link" href="o-nas">O nás</a></li>
 
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="produkty">Produkty
+                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="interie">Interiér
                                         <i class="fa fa-angle-down"></i></a>
                                     <ul class="dropdown-menu">
                                         <li class="dropdown-submenu">
-                                            <a class="dropdown-toggle" data-toggle="dropdown" href="interier">Interiér </a>
+                                            <a class="dropdown-toggle" data-toggle="dropdown"
+                                               href="zaluzie">Žaluzie </a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="zaluzie">Žaluzie</a></li>
-                                                <li><a href="rolety">Rolety</a></li>
-                                                <li><a href="shrnovaci-dvere">Shrnovací dveře</a></li>
-                                                <li><a href="zaclony">Záclony</a></li>
-                                                <li><a href="delici-steny">Dělící stěny</a></li>
-                                                <li><a href="japonske-steny">Japonské stěny</a></li>
+                                                <li><a href="horizontalni-zaluzie">Horizontální</a></li>
+                                                <li><a href="vertikalni-zaluzie">Vertikální</a></li>
                                             </ul>
                                         </li>
+                                        <li><a href="plise">Plisé</a></li>
+                                        <li><a href="rolety">Rolety</a></li>
                                         <li class="dropdown-submenu">
-                                            <a class="dropdown-toggle" data-toggle="dropdown" href="exterier">Exteriér </a>
+                                            <a class="dropdown-toggle" data-toggle="dropdown" href="shrnovaci-dvere">Shrnovací
+                                                dveře </a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="ex-zaluzie">Venkovní žaluzie</a></li>
-                                                <li><a href="ex-rolety">Venkovní rolety</a></li>
-                                                <li><a href="markyzy">Markýzy</a></li>
-                                                <li><a href="garazova-vrata">Garážová vrata</a></li>
-                                                <li><a href="site-proti-hmyzu">Sítě proti hmyzu</a></li>
-                                                <li><a href="eurookna-dvere">Eurookna a dveře</a></li>
+                                                <li><a href="shrnovaci-dvere-drevene">Dřevěné</a></li>
+                                                <li><a href="shrnovaci-dvere-kozenkove">Koženkové</a></li>
+                                                <li><a href="shrnovaci-dvere-pvc">PVC</a></li>
                                             </ul>
                                         </li>
+                                        <li><a href="zaclony">Záclony</a></li>
+                                        <li><a href="delici-steny">Dělící stěny</a></li>
+                                        <li><a href="japonske-steny">Japonské stěny</a></li>
+                                        <li><a href="zatemneni">Zatemnění</a></li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="produkty">Exteriér
+                                        <i class="fa fa-angle-down"></i></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="venkovni-zaluzie">Venkovní žaluzie</a></li>
+                                        <li class="dropdown-submenu">
+                                            <a class="dropdown-toggle" data-toggle="dropdown" href="venkovni-rolety">Venkovní
+                                                rolety </a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="venkovni-rolety-hlinikove">Hliníkové</a></li>
+                                                <li><a href="venkovni-rolety-drevene">Dřevěné</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="markyzy">Markýzy</a></li>
+                                        <li><a href="garazova-vrata">Garážová vrata</a></li>
+                                        <li><a href="site-proti-hmyzu">Sítě proti hmyzu</a></li>
+                                        <li><a href="eurookna-a-dvere">Eurookna a dveře</a></li>
                                     </ul>
                                 </li>
 
@@ -55,15 +76,16 @@
                             </ul>
                             <ul class="nav navbar-nav float-right">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="tel:+420775914918"><i class="fas fa-phone"></i>&ensp; 775 914 918</a>
+                                    <a class="nav-link" href="tel:+420775914918"><i class="fas fa-phone"></i>&ensp; 775
+                                        914 918</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="mailto:info@lefaservis.cz"><i class="fas fa-envelope"></i>&ensp; info@lefaservis.cz</a>
+                                    <a class="nav-link" href="mailto:info@lefaservis.cz"><i class="fas fa-envelope"></i>&ensp;
+                                        info@lefaservis.cz</a>
                                 </li>
                             </ul><!-- Ul end -->
                         </div>
                     </nav>
-
 
                 </div>
                 <!--/ Col end -->
