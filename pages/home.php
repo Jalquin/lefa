@@ -1,5 +1,5 @@
 <div class="banner-carousel banner-carousel-1 mb-0">
-    <div class="banner-carousel-item" style="background-image:url(images/slider/products1.jpg)">
+    <div class="banner-carousel-item" style="background-image:url(images/slider/slider1.jpg)">
         <div class="slider-content">
             <div class="container h-100">
                 <div class="row align-items-center h-100">
@@ -8,8 +8,8 @@
                         <h1 class="slide-sub-title" data-animation-in="slideInRight">oblasti <b>stínící techniky</b>
                         </h1>
                         <p class="text-center" data-animation-in="slideInLeft" data-duration-in="1.2">
-                            <a class="slider btn btn-primary" href="../index.php">Naše služby</a>
-                            <a class="slider btn btn-primary border" href="../index.php">Kontakt</a>
+                            <a class="slider btn btn-primary" href="products">Naše služby</a>
+                            <a class="slider btn btn-primary border" href="kontakt">Kontakt</a>
                         </p>
                     </div>
                 </div>
@@ -17,7 +17,7 @@
         </div>
     </div>
 
-    <div class="banner-carousel-item" style="background-image:url(images/slider/products2.png)">
+    <div class="banner-carousel-item" style="background-image:url(images/slider/slider2.jpg)">
         <div class="slider-content text-left">
             <div class="container h-100">
                 <div class="row align-items-center h-100">
@@ -26,14 +26,26 @@
                         <h3 class="slide-title" data-animation-in="fadeIn">Kvalitní produkty</h3>
                         <h3 class="slide-sub-title" data-animation-in="slideInLeft">Řešení na míru</h3>
                         <p data-animation-in="slideInLeft">
-                            <!--                                <a class="slider btn btn-primary border" href="reference">Reference</a>-->
-                            <a class="slider btn btn-primary border" href="../index.php">Reference</a>
-                            <a class="slider btn btn-primary" href="../index.php">O nás</a>
+                            <a class="slider btn btn-primary border" href="reference">Reference</a>
+                            <a class="slider btn btn-primary" href="o-nas">O nás</a>
                         </p>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+
+    <div class="banner-carousel-item" style="background-image:url(images/slider/slider4.jpg)">
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/slider5.jpg)">
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/slider6.jpg)">
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/slider7.jpg)">
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/slider8.jpg)">
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/slider9.jpg)">
     </div>
 </div>
 
@@ -55,6 +67,37 @@
         </div><!-- Action style box -->
     </div><!-- Container end -->
 </section><!-- Action end -->
+
+<section>
+    <div class="container">
+        <p>
+            Firma <b>LEFA SERVIS</b> zabývající se stínící technikou navrhuje dodává a montuje v interiéru, žaluzie horizontální, žaluzie vertikální, japonské posuvné panelové stěny, látkové rolety, plisé, zatemnění, záclonové kolejnice, shrnovací dveře a stěny, dělící stěny.
+        </p>
+        <p>
+            Do exteriéru navrhujeme dodáváme a montujeme markýzy, sítě proti hmyzu, garážová vrata rolovací a eurookna.
+        </p>
+        <p>
+            Součastně nabízíme záruční a pozáruční opravy a také opravy výše uvedených výrobků námi nedodaných.
+        </p>
+        <br>
+        <p>
+            Poskytované služby s maximální pečlivostí a osobním přístupem v rozsahu
+        </p>
+        <ul>
+            <li>konzultace v naší kanceláři s cílem seznámení s přáním zákazníka</li>
+            <li>informace o možnostech z hlediska estetického i technického</li>
+            <li>vzorky nabízených výrobků najdete v naší kanceláři - vzorkovně</li>
+            <li>návštěva Vašeho interiéru - exteriéru s cílem vytvoření návrhů</li>
+            <li>zpracování poznatků a podkladů pro finální návrh</li>
+            <li>předložení kompletního návrhu a přesné kalkulace</li>
+            <li>po odsouhlasení návrhu a kalkulace následuje profesionální zakázková výroba</li>
+            <li>dodání dle dohodnutého termínu</li>
+            <li>odborná instalace</li>
+            <li>poskytujeme záruční i pozáruční servis včetně věrnostních slev, přátelských konzultací a informací o novinkách</li>
+            <li>servis a opravy Vašich výrobků námi nedodávaných</li>
+        </ul>
+    </div>
+</section>
 
 <section class="ts-features pb-2" id="ts-features">
     <div class="container">

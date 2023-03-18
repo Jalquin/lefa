@@ -137,7 +137,7 @@
                               rows="10"></textarea>
                 </div>
                 <p>Vámi zadané osobní údaje budeme zpracovávat za účelem odpovědi. Bližší informace naleznete v
-                    <ins><a class="read-more" href="../index.php">zásadách zpracování osobních údajů.</a></ins>
+                    <ins><a class="read-more" href="gdpr">zásadách zpracování osobních údajů.</a></ins>
                 </p>
                 <div class="text-right">
                     <button class="btn btn-primary solid blank" type="submit">Odeslat</button>
