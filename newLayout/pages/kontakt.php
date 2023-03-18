@@ -53,7 +53,9 @@
 
         <div class="col-md-7">
             <iframe allowfullscreen="" class="map"
-                    height="450" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1521.9174728647947!2d14.346917661854162!3d50.09471352097142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd12bc0a8fa639ebd!2sFabiankov%C3%A1%20Lenka!5e0!3m2!1sen!2scz!4v1676226529487!5m2!1sen!2scz" style="border:0;"
+                    height="450" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1521.9174728647947!2d14.346917661854162!3d50.09471352097142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd12bc0a8fa639ebd!2sFabiankov%C3%A1%20Lenka!5e0!3m2!1sen!2scz!4v1676226529487!5m2!1sen!2scz"
+                    style="border:0;"
                     width="600"></iframe>
         </div>
 

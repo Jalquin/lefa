@@ -3,6 +3,24 @@
 $pages = array(
     'index' => 'home.php',
     'o-nas' => 'o-nas.php',
+    'zaluzie-horizontalni' => 'zaluzie-horizontalni.php',
+    'zaluzie-vertikalni' => 'zaluzie-vertikalni.php',
+    'plise' => 'plise.php',
+    'rolety' => 'rolety.php',
+    'shrnovaci-dvere-drevene' => 'shrnovaci-dvere-drevene.php',
+    'shrnovaci-dvere-kozenkove' => 'shrnovaci-dvere-kozenkove.php',
+    'shrnovaci-dvere-pvc' => 'shrnovaci-dvere-pvc.php',
+    'zaclony' => 'zaclony.php',
+    'delici-steny' => 'delici-steny.php',
+    'japonske-steny' => 'japonske-steny.php',
+    'zatemneni' => 'zatemneni.php',
+    'venkovni-zaluzie' => 'venkovni-zaluzie.php',
+    'venkovni-rolety-hlinikove' => 'venkovni-rolety-hlinikove.php',
+    'venkovni-rolety-drevene' => 'venkovni-rolety-drevene.php',
+    'markyzy' => 'markyzy.php',
+    'garazova-vrata' => 'garazova-vrata.php',
+    'site-proti-hmyzu' => 'site-proti-hmyzu.php',
+    'eurookna-a-dvere' => 'eurookna-a-dvere.php',
     'kontakt' => 'kontakt.php',
     '404' => '404.php'
 );
@@ -11,6 +29,24 @@ $pages = array(
 $page_titles = array(
     'index' => '',
     'o-nas' => 'O nás',
+    'zaluzie-horizontalni' => '',
+    'zaluzie-vertikalni' => '',
+    'plise' => '',
+    'rolety' => '',
+    'shrnovaci-dvere-drevene' => '',
+    'shrnovaci-dvere-kozenkove' => '',
+    'shrnovaci-dvere-pvc' => '',
+    'zaclony' => '',
+    'delici-steny' => '',
+    'japonske-steny' => '',
+    'zatemneni' => '',
+    'venkovni-zaluzie' => '',
+    'venkovni-rolety-hlinikove' => '',
+    'venkovni-rolety-drevene' => '',
+    'markyzy' => '',
+    'garazova-vrata' => '',
+    'site-proti-hmyzu' => '',
+    'eurookna-a-dvere' => '',
     'kontakt' => 'Kontakt',
     '404' => 'Stránka nenalezena'
 );
@@ -79,6 +115,7 @@ $template_file = 'pages/' . $pages[$page];
 
 </head>
 <body>
+
 <div class="body-inner">
 
     <?php
