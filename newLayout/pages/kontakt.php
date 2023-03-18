@@ -1,4 +1,4 @@
-<section>
+<section class="container">
     <div class="row text-center">
         <div class="col-12">
             <h1 class="section-title">Kontakt</h1>
@@ -60,4 +60,90 @@
         </div>
 
     </div><!-- 1st row end -->
+
+    <div id="contact-form" class="gap-40"></div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <h3 class="column-title">Kontaktní formulář</h3>
+            <p class="column-title-small">Rádi zodpovíme Vaše dotazy a poskytneme Vám odhad ceny.</p>
+
+            <?php
+            if ($_SERVER["REQUEST_METHOD"] == "POST") {
+                // Get the form fields
+                $name = $_POST["name"];
+                $email = $_POST["email"];
+                $tel = $_POST["tel"];
+                $message = $_POST["message"];
+
+                // Construct the email message
+                $to = "cervenyjakub98@gmail.com";
+                $subject = "Zpráva z lefaservis.cz od $name";
+                $body = "Jméno: $name\n\nEmail: $email\n\nTelefon: $tel\n\nZpráva:\n$message";
+
+                // Send the email
+                if (mail($to, $subject, $body)) {
+                    $status = "success";
+                    $message = "Děkujeme za Vaši zprávu. Budeme Vás kontaktovat co nejříve.";
+                } else {
+                    $status = "danger";
+                    $message = "Při odesílání vaší zprávy došlo k chybě. Prosím zkuste to znovu později.";
+                }
+                $alert = '<div class="alert alert-' . $status . ' alert-dismissible fade show" role="alert">
+                  ' . $message . '
+                  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                  </button>
+              </div>';
+            } else {
+                // Set default alert message
+                $alert = '';
+            }
+            ?>
+
+            <?php echo $alert; ?>
+            <form action="#contact-form" method="post">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="name">Jméno</label>
+                            <input class="form-control form-control-name" id="name" name="name" placeholder=""
+                                   required type="text">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="email">E-mail</label>
+                            <input class="form-control form-control-email" id="email" name="email"
+                                   placeholder="" required
+                                   type="email">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label for="tel">Telefon</label>
+                            <input class="form-control form-control-tel" id="tel" name="tel"
+                                   placeholder="" required
+                                   type="tel">
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="message">Zpráva</label>
+                    <textarea class="form-control form-control-message" id="message" name="message"
+                              placeholder="" required
+                              rows="10"></textarea>
+                </div>
+                <p>Vámi zadané osobní údaje budeme zpracovávat za účelem odpovědi. Bližší informace naleznete v
+                    <ins><a href="gdpr">zásadách zpracování osobních údajů.</a></ins>
+                </p>
+                <div class="text-right">
+                    <button class="btn btn-primary solid blank" type="submit">Odeslat</button>
+                </div>
+            </form>
+        </div>
+
+    </div><!-- Content row -->
 </section><!-- Main container end -->

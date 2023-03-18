@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /backup/*
 Allow: /
 
-Sitemap: https://www.topenistreda.cz/sitemap.xml
+Sitemap: https://www.lefaservis.cz/sitemap.xml

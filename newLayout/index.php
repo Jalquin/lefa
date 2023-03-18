@@ -22,7 +22,8 @@ $pages = array(
     'site-proti-hmyzu' => 'site-proti-hmyzu.php',
     'eurookna-a-dvere' => 'eurookna-a-dvere.php',
     'kontakt' => 'kontakt.php',
-    '404' => '404.php'
+    '404' => '404.php',
+    'gdpr' => 'gdpr.php'
 );
 
 // Define the page titles
@@ -48,7 +49,8 @@ $page_titles = array(
     'site-proti-hmyzu' => '',
     'eurookna-a-dvere' => '',
     'kontakt' => 'Kontakt',
-    '404' => 'Stránka nenalezena'
+    '404' => 'Stránka nenalezena',
+    'gdpr' => 'Zásady ochrany osobních údajů'
 );
 
 // Check if a page is specified in the GET parameter, default to home page if not
@@ -124,7 +126,7 @@ $template_file = 'pages/' . $pages[$page];
     ?>
 
 
-    <div id="content" class="container">
+    <div id="content">
         <?php
         // Include the content
         include($template_file);
