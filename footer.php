@@ -2,6 +2,7 @@
     <div class="footer-main">
         <div class="container">
             <div class="row justify-content-between">
+
                 <div class="col-lg-4 col-md-6 footer-widget footer-about">
                     <h3 class="widget-title">O nás <img alt="LEFA Servis Logo" class="footer-logo ml-5" loading="lazy"
                                                         src="images/lefaservis_white.svg"></h3>
@@ -32,12 +33,14 @@
                         </li>
                     </ul>
                 </div><!-- Col end -->
+
             </div><!-- Row end -->
         </div><!-- Container end -->
     </div><!-- Footer main end -->
 
     <div class="copyright">
         <div class="container">
+
             <div class="row align-items-center">
                 <div class="col-md-12">
                     <div class="copyright-info">

@@ -71,7 +71,9 @@
 <section>
     <div class="container">
         <p>
-            Firma <b>LEFA SERVIS</b> zabývající se stínící technikou navrhuje dodává a montuje v interiéru, žaluzie horizontální, žaluzie vertikální, japonské posuvné panelové stěny, látkové rolety, plisé, zatemnění, záclonové kolejnice, shrnovací dveře a stěny, dělící stěny.
+            Firma <b>LEFA SERVIS</b> zabývající se stínící technikou navrhuje dodává a montuje v interiéru, žaluzie
+            horizontální, žaluzie vertikální, japonské posuvné panelové stěny, látkové rolety, plisé, zatemnění,
+            záclonové kolejnice, shrnovací dveře a stěny, dělící stěny.
         </p>
         <p>
             Do exteriéru navrhujeme dodáváme a montujeme markýzy, sítě proti hmyzu, garážová vrata rolovací a eurookna.
@@ -93,7 +95,9 @@
             <li>po odsouhlasení návrhu a kalkulace následuje profesionální zakázková výroba</li>
             <li>dodání dle dohodnutého termínu</li>
             <li>odborná instalace</li>
-            <li>poskytujeme záruční i pozáruční servis včetně věrnostních slev, přátelských konzultací a informací o novinkách</li>
+            <li>poskytujeme záruční i pozáruční servis včetně věrnostních slev, přátelských konzultací a informací o
+                novinkách
+            </li>
             <li>servis a opravy Vašich výrobků námi nedodávaných</li>
         </ul>
     </div>

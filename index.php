@@ -55,7 +55,7 @@ $page_titles = array(
     'gdpr' => 'Zásady ochrany osobních údajů'
 );
 
-// Check if a page is specified in the GET parameter, default to home page if not
+// Check if a page is specified in the GET parameter, default to index, if page does not exist to 404
 if (isset($_GET['page']) && array_key_exists($_GET['page'], $pages)) {
     $page = $_GET['page'];
 } elseif (!isset($_GET['page'])) {
@@ -76,18 +76,24 @@ $template_file = 'pages/' . $pages[$page];
     <!-- Basic Page Needs
   ================================================== -->
     <meta charset="utf-8">
-    <title>LEFA Servis <?php if ($page != 'index') {
+    <title>
+        LEFA Servis
+        <?php
+        if ($page != 'index') {
             echo ' - ';
         }
-        echo $page_titles[$page]; ?></title>
+        echo $page_titles[$page];
+        ?>
+    </title>
+    <meta content="Firma LEFA SERVIS se vždy zaměřovala na poskytování vysoce kvalitních služeb, které se opírají o
+                        prvotřídní použité materiály."
+    <meta content="Jakub Červený" name=author>
 
     <!-- Mobile Specific Metas
   ================================================== -->
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    <meta content="Firma Topení-Středa s.r.o. zajišťuje dodávku, montáž a servis nových způsobů vytápění, rozvodů vody, kanalizace a plynu. Zaměřujeme se na ověřené způsoby vytápění a chlazení pro rodinné a bytové domy."
-          name="description">
+    name="description">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=5.0" name="viewport">
-    <meta content="Jakub Červený" name=author>
 
     <!-- Favicon
   ================================================== -->
@@ -127,13 +133,13 @@ $template_file = 'pages/' . $pages[$page];
     include('header.php');
     ?>
 
-
     <div id="content" class="solid-bg">
         <?php
         // Include the content
         include($template_file);
         ?>
     </div>
+
     <?php
     // Include the footer
     include('footer.php');
@@ -166,5 +172,4 @@ $template_file = 'pages/' . $pages[$page];
 
 </div><!-- Body inner end -->
 </body>
-
 </html>

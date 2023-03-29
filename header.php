@@ -5,9 +5,10 @@
                 <div class="col-lg-12">
 
                     <nav class="navbar navbar-expand-lg p-0">
+
                         <a href="index"><img alt="LEFA Servis Logo"
-                                                     class="<?php if ($page == 'index') echo 'active-png'; ?>" loading="lazy"
-                                                     src="images/lefaservis_white.svg"></a>
+                                             class="<?php if ($page == 'index') echo 'active-png'; ?>" loading="lazy"
+                                             src="images/lefaservis_white.svg"></a>
 
                         <button aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation"
                                 class="navbar-toggler" data-target=".navbar-collapse" data-toggle="collapse"
@@ -96,8 +97,8 @@
                                 <li class="nav-item <?php if ($page == 'kontakt') echo 'active'; ?>"><a class="nav-link"
                                                                                                         href="kontakt">Kontakt</a>
                                 </li>
-
                             </ul>
+
                             <ul class="nav navbar-nav float-right">
                                 <li class="nav-item">
                                     <a class="nav-link" href="tel:+420775914918"><i class="fas fa-phone"></i>&ensp; 775
@@ -108,6 +109,7 @@
                                         info@lefaservis.cz</a>
                                 </li>
                             </ul><!-- Ul end -->
+
                         </div>
                     </nav>
 
