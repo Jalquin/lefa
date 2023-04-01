@@ -1,16 +1,30 @@
 <section class="container">
-    <div class="row flex-row-reverse">
+    <div class="row">
 
         <div class="col-lg-9 mb-4 mb-lg-0">
             <h1 class="column-title mrt-0">Skládané žaluzie - PLISE</h1>
             <p>
-                Díky nekonečné škále tvarových možností se plisovaná žaluzie stává praktickým a estetickým systémem zastiňování a zatemňování moderních bytů a kanceláří. Tyto vodorovně skládané látkové žaluzie se těší vzrůstající oblibě zejména pro široké použití. Vzhledem k nekonečné možnosti tvarových variant se plisované žaluzie uplatní nejen u klasických oken, dveří a střešních oken, ale i u atypických tvarů lichoběžníků, trojúhelníků a oblouků. Montáž je vhodná pro svislá i střešní okna a najdou své uplatnění i u světlíků, a hlavně v zimních zahradách.
+                Díky nekonečné škále tvarových možností se plisovaná žaluzie stává praktickým a estetickým systémem
+                zastiňování a zatemňování moderních bytů a kanceláří. Tyto vodorovně skládané látkové žaluzie se těší
+                vzrůstající oblibě zejména pro široké použití. Vzhledem k nekonečné možnosti tvarových variant se
+                plisované žaluzie uplatní nejen u klasických oken, dveří a střešních oken, ale i u atypických tvarů
+                lichoběžníků, trojúhelníků a oblouků. Montáž je vhodná pro svislá i střešní okna a najdou své uplatnění
+                i u světlíků, a hlavně v zimních zahradách.
             </p>
             <p>
-                Plise žaluzie se ovládá pomocí vytahovací šňůrky, madlem na pohyblivém profilu nebo elektronicky. Stínícím materiálem nejrůznějších barev, je technická textilie naskládaná – naplisovaná. Výrobce je 3M – Scotch, což je zárukou vysoké kvality včetně napaření povrchové úpravy proti přilnutí prachu nebo jiného znečištění. Textilie vytváří elegantní efekt průsvitu světla, zastíní, ale ne zcela zatemní a ve spojení s hliníkovou vrstvou na rubu zajistí navíc tepelně izolační efekt. Při použití látky s napařenou hliníkovou vrstvou získáte zajímavý dekorativní prvek, ale hlavně snižuje až 50 % tepelného záření. Plisované látky mají nejrůznější barvy, vzory, dezény, potisky, velmi zajímavě působí látky mačkané. Součastně je třeba zvolit mezi jednotlivými stupni propustnosti světla. Proti slunci a zvědavým pohledům Vás jistě ochrání plise žaluzie.
+                Plise žaluzie se ovládá pomocí vytahovací šňůrky, madlem na pohyblivém profilu nebo elektronicky.
+                Stínícím materiálem nejrůznějších barev, je technická textilie naskládaná – naplisovaná. Výrobce je 3M –
+                Scotch, což je zárukou vysoké kvality včetně napaření povrchové úpravy proti přilnutí prachu nebo jiného
+                znečištění. Textilie vytváří elegantní efekt průsvitu světla, zastíní, ale ne zcela zatemní a ve spojení
+                s hliníkovou vrstvou na rubu zajistí navíc tepelně izolační efekt. Při použití látky s napařenou
+                hliníkovou vrstvou získáte zajímavý dekorativní prvek, ale hlavně snižuje až 50 % tepelného záření.
+                Plisované látky mají nejrůznější barvy, vzory, dezény, potisky, velmi zajímavě působí látky mačkané.
+                Součastně je třeba zvolit mezi jednotlivými stupni propustnosti světla. Proti slunci a zvědavým pohledům
+                Vás jistě ochrání plise žaluzie.
             </p>
             <p>
-                Údržba plisovaných textilií je poměrně snadná. Látky díky antistatické úpravě doporučujeme čistit suchou cestou, prachovkou nebo pomocí vysavače.
+                Údržba plisovaných textilií je poměrně snadná. Látky díky antistatické úpravě doporučujeme čistit suchou
+                cestou, prachovkou nebo pomocí vysavače.
             </p>
 
             <div class="page-slider mt-2" id="page-slider">

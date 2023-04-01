@@ -8,7 +8,7 @@
                         <h1 class="slide-sub-title" data-animation-in="slideInRight">stínící technika
                         </h1>
                         <p class="text-center" data-animation-in="slideInLeft" data-duration-in="1.2">
-                            <a class="slider btn btn-primary" href="sluzby">Naše služby</a>
+                            <a class="slider btn btn-primary" href="produkty">Naše produkty</a>
                             <a class="slider btn btn-primary border" href="kontakty">Kontakty</a>
                         </p>
                     </div>

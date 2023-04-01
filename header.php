@@ -17,6 +17,9 @@
                                                                                           href="o-nas">O
                             nás</a>
                     </li>
+                    <li class="nav-item <?php if ($page == 'produkty') echo 'active'; ?>"><a class="nav-link"
+                                                                                             href="produkty">Produkty</a>
+                    </li>
 
                     <li class="nav-item dropdown <?php if ($page == 'zaluzie-horizontalni' || $page == 'zaluzie-vertikalni' || $page == 'plise' || $page == 'rolety' || $page == 'shrnovaci-dvere-drevene' || $page == 'shrnovaci-dvere-kozenkove' || $page == 'shrnovaci-dvere-pvc' || $page == 'zaclony' || $page == 'delici-steny' || $page == 'japonske-steny' || $page == 'zatemneni') echo 'active'; ?>">
                         <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" href="interier">Interiér
@@ -91,7 +94,7 @@
                     </li>
 
                     <li class="nav-item <?php if ($page == 'kontakty') echo 'active'; ?>"><a class="nav-link"
-                                                                                            href="kontakty">Kontakty</a>
+                                                                                             href="kontakty">Kontakty</a>
                     </li>
                 </ul>
                 <ul class="navbar-nav ms-auto">

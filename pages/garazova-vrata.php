@@ -1,21 +1,33 @@
 <section class="container">
-    <div class="row flex-row-reverse">
+    <div class="row">
 
         <div class="col-lg-9 mb-4 mb-lg-0">
             <h1 class="column-title mrt-0">Garážová vrata - rolovací</h1>
             <p>
-                Garážová rolovací vrata jsou určeny k zabezpečení a uzavření garáží, hal, prosklených vchodů a výloh. Díky konstrukčnímu řešení, zabírají malý prostor u stropu a vytváří volné místo před i za vraty a ponechávají stěny a strop volný pro další využití.
+                Garážová rolovací vrata jsou určeny k zabezpečení a uzavření garáží, hal, prosklených vchodů a výloh.
+                Díky konstrukčnímu řešení, zabírají malý prostor u stropu a vytváří volné místo před i za vraty a
+                ponechávají stěny a strop volný pro další využití.
             </p>
             <p>
-                Rolovací vrata tvoří lamelový pancíř, který se navíjí do hliníkového boxu, umístěného pod stropem garáže. Systém vrat tvoří hliníkové vodící lišty, hliníkové zateplené lamely, trubkový motor, který na hřídel navíjí vrata do hliníkového boxu. Garážová vrata by měla být jištěna bezpečnostními prvky - fotobuňkami, bezpečnostní tlakovou lištou nebo pádovou brzdou. Samotné lamely se nejčastěji vyrábí v šíři 77mm a pro menší rozměry vrat je možno použít i lamely o šíři 55 mm.
-                Oba typy lamel jsou zatepleny polyuretanovou pěnou a lakovány práškovou barvou dle aktuálního vzorníku. Dále je možné lamely doplnit prosvětlovacími okénky nebo odvětrávací mřížkou.
+                Rolovací vrata tvoří lamelový pancíř, který se navíjí do hliníkového boxu, umístěného pod stropem
+                garáže. Systém vrat tvoří hliníkové vodící lišty, hliníkové zateplené lamely, trubkový motor, který na
+                hřídel navíjí vrata do hliníkového boxu. Garážová vrata by měla být jištěna bezpečnostními prvky -
+                fotobuňkami, bezpečnostní tlakovou lištou nebo pádovou brzdou. Samotné lamely se nejčastěji vyrábí v
+                šíři 77mm a pro menší rozměry vrat je možno použít i lamely o šíři 55 mm.
+                Oba typy lamel jsou zatepleny polyuretanovou pěnou a lakovány práškovou barvou dle aktuálního vzorníku.
+                Dále je možné lamely doplnit prosvětlovacími okénky nebo odvětrávací mřížkou.
             </p>
             <p>
-                Způsob ovládání garážových vrat je možné provádět tlačítkem nebo dálkovým ovladačem. Pohony garážových vrat by měly být vybaveny nouzovým odblokováním v případě výpadku elektrické energie, označován většinou jako NHK (klikou), ke kterému musí být zajištěn přístup. V případě že garáž boční vchod nemá, je toto nutno řešit individuálně většinou klikou přes zeď.
+                Způsob ovládání garážových vrat je možné provádět tlačítkem nebo dálkovým ovladačem. Pohony garážových
+                vrat by měly být vybaveny nouzovým odblokováním v případě výpadku elektrické energie, označován většinou
+                jako NHK (klikou), ke kterému musí být zajištěn přístup. V případě že garáž boční vchod nemá, je toto
+                nutno řešit individuálně většinou klikou přes zeď.
             </p>
             <h2>Technické informace</h2>
-            <iframe height="500" width="100%" src="documents/garazova-vrata/prehled-technickych-dat-vratove-lamely.pdf"></iframe>
-            <iframe height="500" width="100%" src="documents/garazova-vrata/rolovaci-garazova-vrata-vzornik-barev.pdf"></iframe>
+            <iframe height="500" width="100%"
+                    src="documents/garazova-vrata/prehled-technickych-dat-vratove-lamely.pdf"></iframe>
+            <iframe height="500" width="100%"
+                    src="documents/garazova-vrata/rolovaci-garazova-vrata-vzornik-barev.pdf"></iframe>
 
             <div class="page-slider mt-2" id="page-slider">
                 <div class="item">

@@ -1,6 +1,6 @@
 <section class="main-container pb-2" id="main-container">
     <div class="container">
-        <h1 class="column-title text-center">Poskytované služby</h1>
+        <h1 class="column-title text-center">Poskytované produkty</h1>
         <div class="row">
             <div class="col-lg-4 col-md-6 mb-5">
                 <div class="ts-service-box">

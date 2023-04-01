@@ -1,19 +1,33 @@
 <section class="container">
-    <div class="row flex-row-reverse">
+    <div class="row">
 
         <div class="col-lg-9 mb-4 mb-lg-0">
             <h1 class="column-title mrt-0">Koženkové shrnovací dveře a stěny</h1>
             <p>
-                Shrnovací dveře a stěny slouží k úspoře místa ve Vašich interiérech. Vzhledem k tomu se tak stávají shrnovací dveře a stěny praktickým a dekorativním prvkem. Shrnovací dveře a stěny od firmy Lefa servis je možné osadit do stávajících dřevěných nebo kovových zárubní, případně zděných průvlaků. Shrnovací dveře jsou vyráběny jednokřídlé nebo dvoukřídlé, plné i prosklené, dle přání zákazníka. Počet a typ prosklení je individuální řešení. Vzhledem k nízké hmotnosti shrnovacích dveří jsou snadno ovladatelné. Uzavírání všech typů shrnovacích dveří nebo stěn je řešeno magnetickým nebo mechanickým zámkem.
+                Shrnovací dveře a stěny slouží k úspoře místa ve Vašich interiérech. Vzhledem k tomu se tak stávají
+                shrnovací dveře a stěny praktickým a dekorativním prvkem. Shrnovací dveře a stěny od firmy Lefa servis
+                je možné osadit do stávajících dřevěných nebo kovových zárubní, případně zděných průvlaků. Shrnovací
+                dveře jsou vyráběny jednokřídlé nebo dvoukřídlé, plné i prosklené, dle přání zákazníka. Počet a typ
+                prosklení je individuální řešení. Vzhledem k nízké hmotnosti shrnovacích dveří jsou snadno ovladatelné.
+                Uzavírání všech typů shrnovacích dveří nebo stěn je řešeno magnetickým nebo mechanickým zámkem.
             </p>
             <p>
-                Ve zkratce LEFA SERVIS nabízí varianty shrnovacích dveří a stěn které odpovídají Vašemu osobnímu vkusu a požadavkům.
+                Ve zkratce LEFA SERVIS nabízí varianty shrnovacích dveří a stěn které odpovídají Vašemu osobnímu vkusu a
+                požadavkům.
             </p>
             <p>
-                Shrnovací dveře jednokřídlé a dvoukřídlé se používají místo klasických dveří všude tam, kde potřebujeme uspořit místo. Snadná a rychlá montáž nejen do stávajících zárubní, ale do každého stavebního otvoru. Rozměr dveří, barevnou kombinaci a doplňky včetně prosklení si určí zákazník sám dle svých potřeb.Mezi přednosti koženkových dveří patří tichý a bezporuchový provoz.
+                Shrnovací dveře jednokřídlé a dvoukřídlé se používají místo klasických dveří všude tam, kde potřebujeme
+                uspořit místo. Snadná a rychlá montáž nejen do stávajících zárubní, ale do každého stavebního otvoru.
+                Rozměr dveří, barevnou kombinaci a doplňky včetně prosklení si určí zákazník sám dle svých potřeb.Mezi
+                přednosti koženkových dveří patří tichý a bezporuchový provoz.
             </p>
             <p>
-                Dveře zajišťují ochranu proti chladu a splňují dobrou zvukovou izolaci, ale nejsou bezpečnostním prvkem. Nehodí se do venkovního a vlhkého prostředí. Základním materiálem je sololitová lamela potažena koženkou. Výhodou shrnovacích dveří KARINA je dvoubarevné provedení a počet prosklení. Funkce dveří zajišťuje eloxovaná hliníková pojezdová lišta s jezdci z umělé hmoty. Uzavírání shrnovacích dveří je řešeno magnetickým zámkem do kovové dorazové lišty nebo na přání je možno zabudovat mechanický zámek s uzamykáním.
+                Dveře zajišťují ochranu proti chladu a splňují dobrou zvukovou izolaci, ale nejsou bezpečnostním prvkem.
+                Nehodí se do venkovního a vlhkého prostředí. Základním materiálem je sololitová lamela potažena
+                koženkou. Výhodou shrnovacích dveří KARINA je dvoubarevné provedení a počet prosklení. Funkce dveří
+                zajišťuje eloxovaná hliníková pojezdová lišta s jezdci z umělé hmoty. Uzavírání shrnovacích dveří je
+                řešeno magnetickým zámkem do kovové dorazové lišty nebo na přání je možno zabudovat mechanický zámek s
+                uzamykáním.
             </p>
             <ul>
                 <li>základním materiál - sololitová deska potažena koženkou</li>
@@ -28,17 +42,33 @@
             </ul>
 
             <h2>Technické informace</h2>
-            <iframe height="500" width="100%" src="documents/shrnovaci-dvere/kozenkove-shrnovaci-dvere-vzornik.pdf"></iframe>
+            <iframe height="500" width="100%"
+                    src="documents/shrnovaci-dvere/kozenkove-shrnovaci-dvere-vzornik.pdf"></iframe>
 
             <h2>Informace před objednáním koženkových dveří a stěn</h2>
             <ul>
-                <li>Rozhodující informací je rozměr otvoru, a to bez jakýchkoliv odpočtů, do kterého se dveře montují. Pokud je tento otvor změřen přesně, dostanete dveře které mají ve spodní části přesahující okraj koženky, který se odstřihne přesně na místě dle požadavku.</li>
-                <li>Při objednávce je třeba upřesnit, zda zákazník požaduje do otvoru dveře více napnuté, protože standardně jsou vyráběny navlněné. Nelze dveře vyrobit zcela napnuté, protože to nedovoluje technologické řešení lamel.</li>
-                <li>Lamely jsou vyráběny pouze skládané u prosklených i plných dveří, a to především z důvodu tvarové stálosti.</li>
-                <li>Maximální výška dveří je 215 cm, šířka dveří 220 cm, ale od šířky 127 cm doporučujeme provedení dvoukřídlé, dveře jsou lépe ovladatelné.</li>
-                <li>Shrnuté dveře zabírají v otvoru u standardních 80 cm šíře 18 cm, každá lamela navíc pak + 1,5 cm.</li>
-                <li>Montážní otvor lze opatřit obložením, z masivu. Dveře mají pak vodící lištu v zafrézované drážce ve vrchní špaletě a boční doraz v drážce na levé nebo pravé straně špalety.</li>
-                <li>Při montáži dveří je třeba dbát především na to, aby dveře „chodily“ lehce nesmějí váznout, jinak hrozí jejich poškození. Je třeba si řádně přečíst a dodržet pokyny v návodu pro montáž.</li>
+                <li>Rozhodující informací je rozměr otvoru, a to bez jakýchkoliv odpočtů, do kterého se dveře montují.
+                    Pokud je tento otvor změřen přesně, dostanete dveře které mají ve spodní části přesahující okraj
+                    koženky, který se odstřihne přesně na místě dle požadavku.
+                </li>
+                <li>Při objednávce je třeba upřesnit, zda zákazník požaduje do otvoru dveře více napnuté, protože
+                    standardně jsou vyráběny navlněné. Nelze dveře vyrobit zcela napnuté, protože to nedovoluje
+                    technologické řešení lamel.
+                </li>
+                <li>Lamely jsou vyráběny pouze skládané u prosklených i plných dveří, a to především z důvodu tvarové
+                    stálosti.
+                </li>
+                <li>Maximální výška dveří je 215 cm, šířka dveří 220 cm, ale od šířky 127 cm doporučujeme provedení
+                    dvoukřídlé, dveře jsou lépe ovladatelné.
+                </li>
+                <li>Shrnuté dveře zabírají v otvoru u standardních 80 cm šíře 18 cm, každá lamela navíc pak + 1,5 cm.
+                </li>
+                <li>Montážní otvor lze opatřit obložením, z masivu. Dveře mají pak vodící lištu v zafrézované drážce ve
+                    vrchní špaletě a boční doraz v drážce na levé nebo pravé straně špalety.
+                </li>
+                <li>Při montáži dveří je třeba dbát především na to, aby dveře „chodily“ lehce nesmějí váznout, jinak
+                    hrozí jejich poškození. Je třeba si řádně přečíst a dodržet pokyny v návodu pro montáž.
+                </li>
                 <li>Shrnovací dveře i stěny nejdou za žádných okolností prodloužit!</li>
             </ul>
 

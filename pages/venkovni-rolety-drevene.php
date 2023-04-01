@@ -1,5 +1,5 @@
 <section class="container">
-    <div class="row flex-row-reverse">
+    <div class="row">
 
         <div class="col-lg-9 mb-4 mb-lg-0">
             <h1 class="column-title mrt-0">Dřevěné venkovní rolety</h1>

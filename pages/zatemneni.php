@@ -1,13 +1,19 @@
 <section class="container">
-    <div class="row flex-row-reverse">
+    <div class="row">
 
         <div class="col-lg-9 mb-4 mb-lg-0">
             <h1 class="column-title mrt-0">Zatemnění</h1>
             <p>
-                Zatemnění je výjimečné zařízení pro speciální vědecké laboratoře, fotokomory, školící učebny, posluchárny vysokých škol a konferenční místnosti. Zatemnění je speciální kazetová roleta s hlubokými vodícími kolejnicemi, které jsou opatřeny těsnícími kartáčky a vyztuženou tkaninou, která se navíjí do krytu kastlíku, součastně ji lze doplnit o spodní uzavírací profil a vytvořit tak dokonalé zatemnění. Ovládání pro menší plochy lze použít ruční, tedy klikovým navijákem nebo planetovou převodovkou popruhu se samočinným navijákem.
+                Zatemnění je výjimečné zařízení pro speciální vědecké laboratoře, fotokomory, školící učebny,
+                posluchárny vysokých škol a konferenční místnosti. Zatemnění je speciální kazetová roleta s hlubokými
+                vodícími kolejnicemi, které jsou opatřeny těsnícími kartáčky a vyztuženou tkaninou, která se navíjí do
+                krytu kastlíku, součastně ji lze doplnit o spodní uzavírací profil a vytvořit tak dokonalé zatemnění.
+                Ovládání pro menší plochy lze použít ruční, tedy klikovým navijákem nebo planetovou převodovkou popruhu
+                se samočinným navijákem.
             </p>
             <p>
-                Pro větší plochy zatemnění nabízíme jednoduší obsluhu trubkovými motory, které lze ovládat jednotlivě spínačem nebo centrálně integrovat do řídícího systému.
+                Pro větší plochy zatemnění nabízíme jednoduší obsluhu trubkovými motory, které lze ovládat jednotlivě
+                spínačem nebo centrálně integrovat do řídícího systému.
             </p>
 
             <h2>Technické informace</h2>

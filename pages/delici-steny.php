@@ -1,5 +1,5 @@
 <section class="container">
-    <div class="row flex-row-reverse">
+    <div class="row">
 
         <div class="col-lg-9 mb-4 mb-lg-0">
             <h1 class="column-title mrt-0">Dělící stěny - harmonie</h1>
@@ -31,7 +31,8 @@
             </ul>
 
             <h2>Vzorník barev</h2>
-            <iframe height="500" width="100%" src="documents/delici-steny/shrnovaci-dvere-harmonie-vzornik-barev.pdf"></iframe>
+            <iframe height="500" width="100%"
+                    src="documents/delici-steny/shrnovaci-dvere-harmonie-vzornik-barev.pdf"></iframe>
 
             <h3>Konstrukční mezní hodnoty</h3>
             <table class="table table-striped">

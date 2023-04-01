@@ -1,19 +1,31 @@
 <section class="container">
-    <div class="row flex-row-reverse">
+    <div class="row">
 
         <div class="col-lg-9 mb-4 mb-lg-0">
             <h1 class="column-title mrt-0">Dřevěné shrnovací dveře a stěny</h1>
             <p>
-                Shrnovací dveře a stěny slouží k úspoře místa ve Vašich interiérech. Vzhledem k tomu se tak stávají shrnovací dveře a stěny praktickým a dekorativním prvkem. Shrnovací dveře a stěny od firmy Lefa servis je možné osadit do stávajících dřevěných nebo kovových zárubní, případně zděných průvlaků. Shrnovací dveře jsou vyráběny jednokřídlé nebo dvoukřídlé, plné i prosklené, dle přání zákazníka. Počet a typ prosklení je individuální řešení. Vzhledem k nízké hmotnosti shrnovacích dveří jsou snadno ovladatelné. Uzavírání všech typů shrnovacích dveří nebo stěn je řešeno magnetickým nebo mechanickým zámkem.
+                Shrnovací dveře a stěny slouží k úspoře místa ve Vašich interiérech. Vzhledem k tomu se tak stávají
+                shrnovací dveře a stěny praktickým a dekorativním prvkem. Shrnovací dveře a stěny od firmy Lefa servis
+                je možné osadit do stávajících dřevěných nebo kovových zárubní, případně zděných průvlaků. Shrnovací
+                dveře jsou vyráběny jednokřídlé nebo dvoukřídlé, plné i prosklené, dle přání zákazníka. Počet a typ
+                prosklení je individuální řešení. Vzhledem k nízké hmotnosti shrnovacích dveří jsou snadno ovladatelné.
+                Uzavírání všech typů shrnovacích dveří nebo stěn je řešeno magnetickým nebo mechanickým zámkem.
             </p>
             <p>
-                Ve zkratce LEFA SERVIS nabízí varianty shrnovacích dveří a stěn které odpovídají Vašemu osobnímu vkusu a požadavkům.
+                Ve zkratce LEFA SERVIS nabízí varianty shrnovacích dveří a stěn které odpovídají Vašemu osobnímu vkusu a
+                požadavkům.
             </p>
             <p>
-                Využití zejména k instalaci do všech dveřních otvorů, ale lze je použít i jako prostorový dekorativní dělící prvek interiérů z příjemného přírodního materiálu jako je dřevo. Podporuje ochranu proti chladu a hluku, není však bezpečnostním prvkem. Nízká hmotnost dřevěných dveří zajišťuje jejich snadné ovládání. Shrnovací dveře a stěny se skládají z jednotlivých lamel vzájemně spojeným tkalouny. Dveře od firmy Lefa servis lze vybavit prosklení jednotlivých lamel.
+                Využití zejména k instalaci do všech dveřních otvorů, ale lze je použít i jako prostorový dekorativní
+                dělící prvek interiérů z příjemného přírodního materiálu jako je dřevo. Podporuje ochranu proti chladu a
+                hluku, není však bezpečnostním prvkem. Nízká hmotnost dřevěných dveří zajišťuje jejich snadné ovládání.
+                Shrnovací dveře a stěny se skládají z jednotlivých lamel vzájemně spojeným tkalouny. Dveře od firmy Lefa
+                servis lze vybavit prosklení jednotlivých lamel.
             </p>
             <p>
-                Součástí dveří je přední profil s úchyty a zámkem. Přední profil a lamely jsou opatřeny vahadlem a kluznými jezdci, které se pohybují v horním nosném profilu. Uzavírání je řešeno kleštinovým uzávěrem, magnetickým zámkem nebo uzamykatelným zámkem v kovovém provedení.
+                Součástí dveří je přední profil s úchyty a zámkem. Přední profil a lamely jsou opatřeny vahadlem a
+                kluznými jezdci, které se pohybují v horním nosném profilu. Uzavírání je řešeno kleštinovým uzávěrem,
+                magnetickým zámkem nebo uzamykatelným zámkem v kovovém provedení.
             </p>
             <ul>
                 <li>základním materiál – smrkové dřevo v barvách dle vzorníku</li>
@@ -28,27 +40,55 @@
             </ul>
 
             <h2>Technické informace</h2>
-            <iframe height="500" width="100%" src="documents/shrnovaci-dvere/drevene-shrnovaci-dvere-vzornik.pdf"></iframe>
-            <iframe height="500" width="100%" src="documents/shrnovaci-dvere/drevene-shrnovaci-dvere-vzornik-zamky.pdf"></iframe>
+            <iframe height="500" width="100%"
+                    src="documents/shrnovaci-dvere/drevene-shrnovaci-dvere-vzornik.pdf"></iframe>
+            <iframe height="500" width="100%"
+                    src="documents/shrnovaci-dvere/drevene-shrnovaci-dvere-vzornik-zamky.pdf"></iframe>
 
             <h2>Informace před objednáním dřevěných dveří z masivu</h2>
             <p>
-                Rozhodující informací je rozměr otvoru, a to bez jakýchkoliv odpočtů, do kterého se dveře montují. Pokud je tento změřen přesně, dostanete dveře s minimální 0,5 cm mezerou od podlahy a optimální šířkou..
+                Rozhodující informací je rozměr otvoru, a to bez jakýchkoliv odpočtů, do kterého se dveře montují. Pokud
+                je tento změřen přesně, dostanete dveře s minimální 0,5 cm mezerou od podlahy a optimální šířkou..
             </p>
             <ul>
-                <li>Při objednávce je třeba upřesnit, zda zákazník požaduje do otvoru dveře více napnuté, protože standardně jsou vyráběny navlněné. Nelze dveře vyrobit zcela napnuté, protože to nedovoluje technologické řešení lamel.</li>
-                <li>Lamely jsou vyráběny pouze skládané u prosklených i plných dveří, a to především z důvodu tvarové stálosti a dále se tím při zpracování vyřazují vady materiálu</li>
-                <li>U přírodního materiálu nelze odstranit všechny „vady“ – suky, různé odstíny dřeva, zátržky aj. drobnosti, které se mohou na dveřích vyskytnout, a to i přesto, že je používán materiál výběr nejvyšší kvality. Pokud toto zákazník nechce akceptovat, musí volit dveře z jiného materiálu - nejlépe plastové.</li>
+                <li>Při objednávce je třeba upřesnit, zda zákazník požaduje do otvoru dveře více napnuté, protože
+                    standardně jsou vyráběny navlněné. Nelze dveře vyrobit zcela napnuté, protože to nedovoluje
+                    technologické řešení lamel.
+                </li>
+                <li>Lamely jsou vyráběny pouze skládané u prosklených i plných dveří, a to především z důvodu tvarové
+                    stálosti a dále se tím při zpracování vyřazují vady materiálu
+                </li>
+                <li>U přírodního materiálu nelze odstranit všechny „vady“ – suky, různé odstíny dřeva, zátržky aj.
+                    drobnosti, které se mohou na dveřích vyskytnout, a to i přesto, že je používán materiál výběr
+                    nejvyšší kvality. Pokud toto zákazník nechce akceptovat, musí volit dveře z jiného materiálu -
+                    nejlépe plastové.
+                </li>
                 <li>Kresba dřeva není považována za vadu.</li>
-                <li>Maximální výška dveří je 220 cm, šířka je prakticky neomezena, od šířky 200 cm doporučujeme provedení dvoukřídlé, dveře jsou lépe ovladatelné.</li>
+                <li>Maximální výška dveří je 220 cm, šířka je prakticky neomezena, od šířky 200 cm doporučujeme
+                    provedení dvoukřídlé, dveře jsou lépe ovladatelné.
+                </li>
                 <li>Shrnuté dveře zabírají v otvoru u standardních 80 cm šíře 15 cm, každá lamela navíc pak + 1 cm.</li>
-                <li>Montážní otvor lze opatřit obložením, rovněž z masivu. Dveře mají pak vodící lištu v zafrézované drážce ve vrchní špaletě a boční doraz v drážce na levé nebo pravé straně špalety.</li>
-                <li>Dveře jsou lakovány v polomastném laku. Pokud si zákazník přeje jiný lak, je toto nutné uvést v objednávce.</li>
-                <li>Při objednávce dveří nemořených, je třeba uvést barvu spojovacího materiálu – popruhu (bílá, béžová, hnědá nebo černá).</li>
-                <li>Je možno provést i jiný barevný odstín, než je uvedeno v ceníku. Podmínkou je dodání vlastní barvy, pouze vodou ředitelného akrylátu.</li>
-                <li>Pokud zákazník chce do dveří jiné sklo, než je uvedeno v nabídce, může si dodat jakékoliv, ale v rozměrech: pro dveře DS03 – 4/60/397mm pro dveře DS04 – 4/60/355mm</li>
-                <li>Při objednávce dveří se spodním vedením je nutno uvést, zda je spodní vodící lišta zapuštěna v podlaze, nebo zda je třeba dveře o 1,5 cm zkrátit.</li>
-                <li>Při montáži dveří je třeba dbát především na to, aby dveře „chodily“ lehce – nesmějí váznout, jinak hrozí jejich poškození. Je třeba si řádně přečíst a dodržet pokyny v návodu.</li>
+                <li>Montážní otvor lze opatřit obložením, rovněž z masivu. Dveře mají pak vodící lištu v zafrézované
+                    drážce ve vrchní špaletě a boční doraz v drážce na levé nebo pravé straně špalety.
+                </li>
+                <li>Dveře jsou lakovány v polomastném laku. Pokud si zákazník přeje jiný lak, je toto nutné uvést v
+                    objednávce.
+                </li>
+                <li>Při objednávce dveří nemořených, je třeba uvést barvu spojovacího materiálu – popruhu (bílá, béžová,
+                    hnědá nebo černá).
+                </li>
+                <li>Je možno provést i jiný barevný odstín, než je uvedeno v ceníku. Podmínkou je dodání vlastní barvy,
+                    pouze vodou ředitelného akrylátu.
+                </li>
+                <li>Pokud zákazník chce do dveří jiné sklo, než je uvedeno v nabídce, může si dodat jakékoliv, ale v
+                    rozměrech: pro dveře DS03 – 4/60/397mm pro dveře DS04 – 4/60/355mm
+                </li>
+                <li>Při objednávce dveří se spodním vedením je nutno uvést, zda je spodní vodící lišta zapuštěna v
+                    podlaze, nebo zda je třeba dveře o 1,5 cm zkrátit.
+                </li>
+                <li>Při montáži dveří je třeba dbát především na to, aby dveře „chodily“ lehce – nesmějí váznout, jinak
+                    hrozí jejich poškození. Je třeba si řádně přečíst a dodržet pokyny v návodu.
+                </li>
                 <li>Dveře nejdou za žádných okolností prodloužit!</li>
             </ul>
 
