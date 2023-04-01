@@ -83,7 +83,7 @@
                 } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
                     $status = "danger";
                     $message = "Zadejte platnou emailovou adresu.";
-                } elseif (!preg_match("/^[\d\s]{9,}$/", $tel)) {
+                } elseif (!preg_match("/^(\+420)?\s?\d{3}\s?\d{3}\s?\d{3}$/", $tel)) {
                     $status = "danger";
                     $message = "Zadejte platné telefonní číslo.";
                 } elseif (strlen($message) < 10) {
@@ -99,6 +99,12 @@
                     if (mail($to, $subject, $body)) {
                         $status = "success";
                         $message = "Děkujeme za Vaši zprávu. Budeme Vás kontaktovat co nejříve.";
+
+                        // Reset form fields
+                        $name = '';
+                        $email = '';
+                        $tel = '';
+                        $message = '';
                     } else {
                         $status = "danger";
                         $message = "Při odesílání vaší zprávy došlo k chybě. Prosím zkuste to znovu později.";
