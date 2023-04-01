@@ -4,13 +4,21 @@
         <div class="col-lg-9 mb-4 mb-lg-0">
             <h1 class="column-title mrt-0">Dřevěné venkovní rolety</h1>
             <p>
-                Nejstarší používaný materiál u rolet je právě dřevo. Na počátku první republiky byly žádaným prvkem, který je často funkční až do dnes. Základním měřítkem pro výběr přírodních materiálů pro dřevěné rolety je velice pravidelná struktura materiálu s téměř nulovou sukovitostí. Kvalitní dřevo je nutné pro dlouhou životnost tvaru lamel. Součastná povrchová úprava impregnačními laky s UV filtrem dodávají roletám maximální životnost. Nejužívanějším typem materiálu je sibiřská borovice, která se vyznačuje dlouhou životností.
+                Nejstarší používaný materiál u rolet je právě dřevo. Na počátku první republiky byly žádaným prvkem,
+                který je často funkční až do dnes. Základním měřítkem pro výběr přírodních materiálů pro dřevěné rolety
+                je velice pravidelná struktura materiálu s téměř nulovou sukovitostí. Kvalitní dřevo je nutné pro
+                dlouhou životnost tvaru lamel. Součastná povrchová úprava impregnačními laky s UV filtrem dodávají
+                roletám maximální životnost. Nejužívanějším typem materiálu je sibiřská borovice, která se vyznačuje
+                dlouhou životností.
             </p>
             <p>
-                Případně lze použít i materiály jiné dub nebo smrk. Nabídka dřevěných předokenních rolet s lamelou 47/12 mm, 35/12 mm spojené pružinovými sponkami z nerezové oceli. Ovládání rolet může být ruční (popruhem nebo klikou) nebo elektrické. Jako komfortnější varianta ovládání je k dispozici 230 V motor.
+                Případně lze použít i materiály jiné dub nebo smrk. Nabídka dřevěných předokenních rolet s lamelou 47/12
+                mm, 35/12 mm spojené pružinovými sponkami z nerezové oceli. Ovládání rolet může být ruční (popruhem nebo
+                klikou) nebo elektrické. Jako komfortnější varianta ovládání je k dispozici 230 V motor.
             </p>
             <p>
-                Vzhledem k jednotlivému přístupu je variabilita vysoká a nabízí několik možností. Rolety lze instalovat do zabudovaných schránek s navíjecími mechanizmy, nebo stavebně připravených otvorů.
+                Vzhledem k jednotlivému přístupu je variabilita vysoká a nabízí několik možností. Rolety lze instalovat
+                do zabudovaných schránek s navíjecími mechanizmy, nebo stavebně připravených otvorů.
             </p>
 
             <div class="page-slider mt-2" id="page-slider">

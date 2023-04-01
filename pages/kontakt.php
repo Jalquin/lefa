@@ -78,17 +78,17 @@
 
                 // Validate form fields
                 if (empty($name) || empty($email) || empty($tel) || empty($message)) {
-                    $status = "danger";
-                    $message = "Všechna pole jsou povinná. Prosím vyplňte všechny pole.";
+                    $alert_status = "danger";
+                    $alert_message = "Všechna pole jsou povinná. Prosím vyplňte všechny pole.";
                 } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-                    $status = "danger";
-                    $message = "Zadejte platnou emailovou adresu.";
+                    $alert_status = "danger";
+                    $alert_message = "Zadejte platnou emailovou adresu.";
                 } elseif (!preg_match("/^(\+420)?\s?\d{3}\s?\d{3}\s?\d{3}$/", $tel)) {
-                    $status = "danger";
-                    $message = "Zadejte platné telefonní číslo.";
+                    $alert_status = "danger";
+                    $alert_message = "Zadejte platné telefonní číslo.";
                 } elseif (strlen($message) < 10) {
-                    $status = "danger";
-                    $message = "Zpráva musí být delší než 10 znaků.";
+                    $alert_status = "danger";
+                    $alert_message = "Zpráva musí být delší než 10 znaků.";
                 } else {
                     // Construct the email message
                     $to = "cervenyjakub98@gmail.com";
@@ -97,26 +97,24 @@
 
                     // Send the email
                     if (mail($to, $subject, $body)) {
-                        $status = "success";
-                        $message = "Děkujeme za Vaši zprávu. Budeme Vás kontaktovat co nejříve.";
-
+                        $alert_status = "success";
+                        $alert_message = "Děkujeme za Vaši zprávu. Budeme Vás kontaktovat co nejříve.";
                         // Reset form fields
                         $name = '';
                         $email = '';
                         $tel = '';
                         $message = '';
                     } else {
-                        $status = "danger";
-                        $message = "Při odesílání vaší zprávy došlo k chybě. Prosím zkuste to znovu později.";
+                        $alert_status = "danger";
+                        $alert_message = "Při odesílání vaší zprávy došlo k chybě. Prosím zkuste to znovu později.";
                     }
                 }
 
                 // Generate alert message
-                $alert = '<div class="alert alert-' . $status . ' alert-dismissible fade show" role="alert">
-                  ' . $message . '
-                   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-
-              </div>';
+                $alert =
+                    '<div class="alert alert-' . $alert_status . ' alert-dismissible fade show" role="alert">
+                    ' . $alert_message .
+                    '<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button></div>';
             } else {
                 // Set default alert message
                 $alert = '';
@@ -130,7 +128,11 @@
                         <div class="form-group">
                             <label class="form-label" for="name">Jméno</label>
                             <input class="form-control" id="name" name="name" placeholder="Jan Novák"
-                                   required type="text" value="<?php echo isset($_POST['name']) ? htmlspecialchars($_POST['name']) : ''; ?>">
+                                   required type="text"
+                                   value="<?php
+                                   if (isset($name)) {
+                                       echo htmlspecialchars($name);
+                                   } ?>">
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -138,7 +140,10 @@
                             <label class="form-label" for="email">E-mail</label>
                             <input class="form-control" id="email" name="email"
                                    placeholder="jan.novak@email.cz" required
-                                   type="email" value="<?php echo isset($_POST['email']) ? htmlspecialchars($_POST['email']) : ''; ?>">
+                                   type="email"
+                                   value="<?php if (isset($email)) {
+                                       echo htmlspecialchars($email);
+                                   } ?>">
                         </div>
                     </div>
                 </div>
@@ -148,7 +153,10 @@
                             <label class="form-label" for="tel">Telefon</label>
                             <input class="form-control" id="tel" name="tel"
                                    placeholder="777 777 777" required
-                                   type="tel" value="<?php echo isset($_POST['tel']) ? htmlspecialchars($_POST['tel']) : ''; ?>">
+                                   type="tel"
+                                   value="<?php if (isset($tel)) {
+                                       echo htmlspecialchars($tel);
+                                   } ?>">
                         </div>
                     </div>
                 </div>
@@ -156,7 +164,9 @@
                     <label class="form-label" for="message">Zpráva</label>
                     <textarea class="form-control" id="message" name="message"
                               placeholder="Vaše zpráva" required
-                              rows="10"><?php echo isset($_POST['message']) ? htmlspecialchars($_POST['message']) : ''; ?></textarea>
+                              rows="10"><?php if (isset($message)) {
+                            echo htmlspecialchars($message);
+                        } ?></textarea>
                 </div>
                 <p>Vámi zadané osobní údaje budeme zpracovávat za účelem odpovědi. Bližší informace naleznete v
                     <ins><a class="read-more" href="gdpr">zásadách zpracování osobních údajů.</a></ins>

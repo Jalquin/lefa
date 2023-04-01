@@ -1,30 +1,29 @@
-<footer class="footer bg-overlay" id="footer">
+<footer class="footer">
     <div class="footer-main">
         <div class="container">
             <div class="row justify-content-between">
 
-                <div class="col-lg-4 col-md-6 footer-widget footer-about">
-                    <h3 class="widget-title">O nás <img alt="LEFA Servis Logo" class="footer-logo ms-5" loading="lazy"
-                                                        src="images/lefaservis_white.svg"></h3>
-
-                    <p>Firma LEFA SERVIS se vždy zaměřovala na poskytování vysoce kvalitních služeb, které se opírají o
+                <div class="col-lg-3 col-md-6 footer-widget">
+                    <h3 class="widget-title">O nás</h3>
+                    <p>Firma <b>LEFA SERVIS</b> se vždy zaměřovala na poskytování vysoce kvalitních služeb, které se
+                        opírají o
                         prvotřídní použité materiály.</p>
                 </div><!-- Col end -->
 
                 <div class="col-lg-4 col-md-6 footer-widget mt-5 mt-md-0">
                     <h3 class="widget-title">Adresa</h3>
                     <div class="working-hours">
-                        <b>Osobní návštěva možná jen po předchozí domluvě.</b><br>
-                        <br>
+                        <p><b>Osobní návštěva možná jen po předchozí domluvě.</b></p>
+
                         <a href="https://goo.gl/maps/RWXPyaGwrZQLeWMD8" target="_blank">
                             <b>Budova DELTA A - 5. patro</b><br>
                             Žukovského 888/2<br>
-                            161 00 Praha 6-Ruzyně
+                            161 00 Praha 6 - Ruzyně
                         </a>
                     </div>
                 </div><!-- Col end -->
 
-                <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
+                <div class="col-lg-3 col-md-6 footer-widget mt-5 mt-md-0">
                     <h3 class="widget-title">Kontakty</h3>
                     <ul class="list-arrow">
                         <li><a href="tel:+420775914918"><i class="fas fa-phone"></i> +420 775 914 918</a></li>
@@ -42,11 +41,9 @@
         <div class="container">
 
             <div class="row align-items-center">
-                <div class="col-md-12">
-                    <div class="copyright-info">
+                <div class="col-12">
                         <span>Copyright &copy; <script>document.write(new Date().getFullYear())</script>, Návrh &amp; Kódování <a
                                     href="https://github.com/Jalquin">Jakub Červený</a></span>
-                    </div>
                 </div>
             </div><!-- Row end -->
 

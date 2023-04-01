@@ -8,7 +8,7 @@
                 <li class="<?php if ($page == 'zaluzie-vertikalni') echo 'active'; ?>">
                     <a href="zaluzie-vertikalni">Vertikální žaluzie</a></li>
                 <li class="<?php if ($page == 'plise') echo 'active'; ?>"><a
-                        href="plise">Plisé</a></li>
+                            href="plise">Plisé</a></li>
                 <li class="<?php if ($page == 'rolety') echo 'active'; ?>"><a href="rolety">Rolety</a>
                 </li>
                 <li class="<?php if ($page == 'shrnovaci-dvere-drevene') echo 'active'; ?>">
@@ -20,11 +20,11 @@
                 <li class="<?php if ($page == 'zaclony') echo 'active'; ?>"><a href="zaclony">Záclony</a>
                 </li>
                 <li class="<?php if ($page == 'delici-steny') echo 'active'; ?>"><a
-                        href="delici-steny">Dělící stěny</a></li>
+                            href="delici-steny">Dělící stěny</a></li>
                 <li class="<?php if ($page == 'japonske-steny') echo 'active'; ?>"><a
-                        href="japonske-steny">Japonské stěny</a></li>
+                            href="japonske-steny">Japonské stěny</a></li>
                 <li class="<?php if ($page == 'zatemneni') echo 'active'; ?>"><a
-                        href="zatemneni">Zatemnění</a></li>
+                            href="zatemneni">Zatemnění</a></li>
             </ul>
         </div><!-- Widget end -->
     </div><!-- Sidebar end -->

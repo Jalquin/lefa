@@ -10,9 +10,9 @@
     --LEFA_orange_light: #ff9400;
     --LEFA_yellow: #fbbc43;
     --LEFA_black: #000;
-    --LEFA_grey: #555;
+    --LEFA_grey: #808080;
     --LEFA_white: #fff;
-    --background: #f9f9f9;
+    --background: #eee;
 }
 
 /* Typography
@@ -2260,7 +2260,7 @@ img.testimonial-thumb {
 
 /* Footer about us */
 .footer-logo {
-    height: 100px;
+    height: 50px;
 }
 
 /* Footer social */
@@ -3294,11 +3294,3 @@ label {
 }
 
 /*# sourceMappingURL=style.css.map */
-
-
-a.anchor {
-    display: block;
-    position: relative;
-    top: -100px;
-    visibility: hidden;
-}
