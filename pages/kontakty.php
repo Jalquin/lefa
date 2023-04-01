@@ -1,7 +1,7 @@
 <section class="container">
     <div class="row text-center">
         <div class="col-12">
-            <h1 class="section-title">Kontakt</h1>
+            <h1 class="section-title">Kontakty</h1>
             <h2 class="column-title-small"><b>LEFA SERVIS</b> - Lenka Fabianková<br>IČO 18411380</h2>
             <h3 class="section-sub-title">Zapsaná v živnostenském rejstříku u Městského úřadu Praha 6</h3>
         </div>

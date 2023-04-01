@@ -9,7 +9,7 @@
                         </h1>
                         <p class="text-center" data-animation-in="slideInLeft" data-duration-in="1.2">
                             <a class="slider btn btn-primary" href="sluzby">Naše služby</a>
-                            <a class="slider btn btn-primary border" href="kontakt">Kontakt</a>
+                            <a class="slider btn btn-primary border" href="kontakty">Kontakty</a>
                         </p>
                     </div>
                 </div>
@@ -318,7 +318,7 @@
                 </div><!-- Col end -->
                 <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
                     <div class="call-to-action-btn">
-                        <a class="btn btn-dark" href="kontakt#contact-form">Zaslat poptávku</a>
+                        <a class="btn btn-dark" href="kontakty#contact-form">Zaslat poptávku</a>
                     </div>
                 </div><!-- col end -->
             </div><!-- row end -->

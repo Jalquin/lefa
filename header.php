@@ -90,8 +90,8 @@
                                 class="nav-link" href="reference">Reference</a>
                     </li>
 
-                    <li class="nav-item <?php if ($page == 'kontakt') echo 'active'; ?>"><a class="nav-link"
-                                                                                            href="kontakt">Kontakt</a>
+                    <li class="nav-item <?php if ($page == 'kontakty') echo 'active'; ?>"><a class="nav-link"
+                                                                                            href="kontakty">Kontakty</a>
                     </li>
                 </ul>
                 <ul class="navbar-nav ms-auto">

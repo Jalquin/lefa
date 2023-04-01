@@ -24,7 +24,7 @@
 
             <div class="page-slider small-bg" id="page-slider">
 
-                <div class="item" style="background-image:url(images/slider/slider9.jpg)">
+                <div class="item" style="background-image:url(images/slider/venkovni-rolety-drevene2.jpg)">
                     <div class="container">
                         <div class="box-slider-content">
                             <div class="box-slider-text">
@@ -34,7 +34,7 @@
                     </div>
                 </div><!-- Item 1 end -->
 
-                <div class="item" style="background-image:url(images/slider/slider8.jpg)">
+                <div class="item" style="background-image:url(images/slider/venkovni-zaluzie2.jpg)">
                     <div class="container">
                         <div class="box-slider-content">
                             <div class="box-slider-text">
@@ -44,7 +44,7 @@
                     </div>
                 </div><!-- Item 1 end -->
 
-                <div class="item" style="background-image:url(images/slider/slider7.jpg)">
+                <div class="item" style="background-image:url(images/slider/venkovni-rolety-drevene3.jpg)">
                     <div class="container">
                         <div class="box-slider-content">
                             <div class="box-slider-text">

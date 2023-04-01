@@ -51,16 +51,18 @@
                     </div><!-- Col end -->
                     <div class="col-md-4 text-center text-md- mt-3 mt-md-0">
                         <div class="call-to-action-btn">
-                            <a class="btn btn-primary" href="kontakt#contact-form">Zaslat
+                            <a class="btn btn-primary" href="kontakty#contact-form">Zaslat
                                 poptávku</a>
                         </div>
                     </div><!-- col end -->
                 </div><!-- row end -->
             </div><!-- Action end -->
         </div><!-- Content Col end -->
+
         <?php
         // Include the widget
         include('widget-exterior.php');
         ?>
+
     </div><!-- Main row end -->
 </section><!-- Main container end -->
