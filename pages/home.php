@@ -1,14 +1,14 @@
 <div class="banner-carousel banner-carousel-1 mb-0">
-    <div class="banner-carousel-item" style="background-image:url(images/slider/slider1.jpg)">
+    <div class="banner-carousel-item" style="background-image:url(images/slider/venkovni-rolety-drevene.jpg)">
         <div class="slider-content">
             <div class="container h-100">
                 <div class="row align-items-center h-100">
                     <div class="col-md-12 text-center">
-                        <h2 class="slide-title" data-animation-in="slideInLeft">23 let zkušeností v</h2>
-                        <h1 class="slide-sub-title" data-animation-in="slideInRight">oblasti <b>stínící techniky</b>
+                        <h2 class="slide-title" data-animation-in="slideInLeft">23 let zkušeností v oblasti</h2>
+                        <h1 class="slide-sub-title" data-animation-in="slideInRight">stínící technika
                         </h1>
                         <p class="text-center" data-animation-in="slideInLeft" data-duration-in="1.2">
-                            <a class="slider btn btn-primary" href="products">Naše služby</a>
+                            <a class="slider btn btn-primary" href="sluzby">Naše služby</a>
                             <a class="slider btn btn-primary border" href="kontakt">Kontakt</a>
                         </p>
                     </div>
@@ -17,7 +17,7 @@
         </div>
     </div>
 
-    <div class="banner-carousel-item" style="background-image:url(images/slider/slider2.jpg)">
+    <div class="banner-carousel-item" style="background-image:url(images/slider/venkovni-rolety-drevene4.jpg)">
         <div class="slider-content text-left">
             <div class="container h-100">
                 <div class="row align-items-center h-100">
@@ -35,17 +35,275 @@
         </div>
     </div>
 
-    <div class="banner-carousel-item" style="background-image:url(images/slider/slider4.jpg)">
+    <div class="banner-carousel-item" style="background-image:url(images/slider/zaluzie-horizontalni.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro interiér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Horizontální žaluzie</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="zalzuie-horizontalni">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="banner-carousel-item" style="background-image:url(images/slider/slider5.jpg)">
+    <div class="banner-carousel-item" style="background-image:url(images/slider/zaluzie-vertikalni.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro interiér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Vertikální žaluzie</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="zalzuie-vertikalni">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="banner-carousel-item" style="background-image:url(images/slider/slider6.jpg)">
+    <div class="banner-carousel-item" style="background-image:url(images/slider/plise.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro interiér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Plisé</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="plise">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="banner-carousel-item" style="background-image:url(images/slider/slider7.jpg)">
+    <div class="banner-carousel-item" style="background-image:url(images/slider/rolety.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro interiér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Rolety</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="rolety">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="banner-carousel-item" style="background-image:url(images/slider/slider8.jpg)">
+    <div class="banner-carousel-item" style="background-image:url(images/slider/shrnovaci-dvere-drevene.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro interiér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Dřevěné shrnovací dveře</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="shrnovaci-dvere-drevene">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="banner-carousel-item" style="background-image:url(images/slider/slider9.jpg)">
+    <div class="banner-carousel-item" style="background-image:url(images/slider/shrnovaci-dvere-kozenkove.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro interiér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Koženkové shrnovací dveře</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="shrnovaci-dvere-kozenkove">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/shrnovaci-dvere-pvc.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro interiér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">PVC shrnovací dveře</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="shrnovaci-dvere-pvc">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/zaclony.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro interiér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Záclony</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="zaclony">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/delici-steny.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro interiér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Dělící stěny</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="delici-steny">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/japonske-steny.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro interiér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Japonské stěny</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="japonske-steny">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/zatemneni.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro interiér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Zatemnění</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="zatemneni">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/venkovni-zaluzie.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro exteriér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Venkovní žaluzie</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="venkovni-zaluzie">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/venkovni-rolety-hlinikove.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro exteriér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Hliníkové venkovní rolety</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="venkovni-rolety-hlinikove">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/venkovni-rolety-drevene3.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro exteriér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Dřevěné venkovní rolety</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="shrnovaci-dvere-kozenkove">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/markyzy.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro exteriér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Markýzy</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="markyzy">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/garazova-vrata.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro exteriér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Garážová vrata</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="garazova-vrata">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/site-proti-hmyzu.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro exteriér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Sítě proti hmyzu</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="site-proti-hmyzu">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="banner-carousel-item" style="background-image:url(images/slider/eurookna-a-dvere.jpg)">
+        <div class="slider-content text-left">
+            <div class="container h-100">
+                <div class="row align-items-center h-100">
+                    <div class="col-md-12">
+                        <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro exteriér</h2>
+                        <h3 class="slide-title" data-animation-in="fadeIn">Eurookna a dveře</h3>
+                        <p data-animation-in="slideInLeft">
+                            <a class="slider btn btn-primary border" href="eurookna-a-dvere">Zjistit více</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -103,153 +361,13 @@
     </div>
 </section>
 
-<section class="ts-features pb-2" id="ts-features">
-    <div class="container">
-        <h2 class="column-title text-center">Poskytované služby</h2>
-        <div class="row">
-            <div class="col-lg-4 col-md-6 mb-5">
-                <div class="ts-service-box">
-                    <div class="ts-service-image-wrapper">
-                        <a href="services/heat-pump"><img alt="Obrázek tepelného čerpadla" class="w-100"
-                                                          loading="lazy"
-                                                          src="images/services/heat-pump.jpg"></a>
-                    </div>
-                    <div class="d-flex">
-                        <div class="ts-service-info">
-                            <h3 class="service-box-title"><a href="services/heat-pump">Tepelná čerpadla</a>
-                            </h3>
-                            <p>Specializujeme se na instalaci tepelných čerpadel vzduch-voda značek Alpha innotec,
-                                Regulus, Bosch, LG, NORDline, AC-Heating.</p>
-                            <a aria-label="service-details" class="learn-more d-inline-block"
-                               href="services/heat-pump"><i class="fa fa-caret-right"></i> Více informací</a>
-                        </div>
-                    </div>
-                </div><!-- Service1 end -->
-            </div><!-- Col 1 end -->
-
-            <div class="col-lg-4 col-md-6 mb-5">
-                <div class="ts-service-box">
-                    <div class="ts-service-image-wrapper">
-                        <a href="services/boiler"><img alt="Obrázek kotle" class="w-100" loading="lazy"
-                                                       src="images/services/boiler.jpg"></a>
-                    </div>
-                    <div class="d-flex">
-                        <div class="ts-service-info">
-                            <h3 class="service-box-title"><a href="services/boiler">Kotle</a>
-                            </h3>
-                            <p>Pravidelně instalujeme ekologické kotle na tuhá paliva s ručním i automatickým
-                                přikládáním.</p>
-                            <a aria-label="service-details" class="learn-more d-inline-block"
-                               href="services/boiler"><i class="fa fa-caret-right"></i> Více informací</a>
-                        </div>
-                    </div>
-                </div><!-- Service2 end -->
-            </div><!-- Col 2 end -->
-
-            <div class="col-lg-4 col-md-6 mb-5">
-                <div class="ts-service-box">
-                    <div class="ts-service-image-wrapper">
-                        <a href="services/grant"><img alt="Obrázek reprezentující počítání rozpočtu na dotace"
-                                                      class="w-100" loading="lazy"
-                                                      src="images/services/grant.jpg"></a>
-                    </div>
-                    <div class="d-flex">
-                        <div class="ts-service-info">
-                            <h3 class="service-box-title"><a href="services/grant">Dotace</a></h3>
-                            <p>Při realizaci ekologického kotle nebo tepelného čerpadla zařizujeme i dotaci na nový
-                                zdroj vytápění.</p>
-                            <a aria-label="service-details" class="learn-more d-inline-block"
-                               href="services/grant"><i class="fa fa-caret-right"></i> Více informací</a>
-                        </div>
-                    </div>
-                </div><!-- Service3 end -->
-            </div><!-- Col 3 end -->
-
-            <div class="col-lg-4 col-md-6 mb-5">
-                <div class="ts-service-box">
-                    <div class="ts-service-image-wrapper">
-                        <a href="services/radiator"><img alt="Obrázek radiátoru" class="w-100" loading="lazy"
-                                                         src="images/services/radiator.jpeg"></a>
-                    </div>
-                    <div class="d-flex">
-                        <div class="ts-service-info">
-                            <h3 class="service-box-title"><a href="services/radiator">Radiátory</a></h3>
-                            <p>Instalace nových radiátorů nebo výměna starých otopných těles za nové. Vše na klíč
-                                včetně zaměření na místě, navržení vhodného řešení a realizace.</p>
-                            <a aria-label="service-details" class="learn-more d-inline-block"
-                               href="services/radiator"><i class="fa fa-caret-right"></i> Více informací</a>
-                        </div>
-                    </div>
-                </div><!-- Service4 end -->
-            </div><!-- Col 4 end -->
-
-        </div><!-- Main row end -->
-    </div><!-- Conatiner end -->
-</section><!-- Feature are end -->
-
-<section class="content">
-    <div class="container">
-        <div class="row">
-
-            <div class="col-lg-7 mt-5 mt-lg-0">
-
-                <h2 class="column-title">Spolupracujeme</h2>
-
-                <div class="row all-clients">
-
-                    <div class="col-sm-4 col-6">
-                        <figure class="clients-logo border-warning">
-                            <a href="services/heat-pumps/novelan"><img alt="Logo firmy NOVELAN"
-                                                                       class="img-fluid"
-                                                                       loading="lazy"
-                                                                       src="images/clients/novelan.jpg"/></a>
-                        </figure>
-                    </div><!-- Client 1 end -->
-
-                    <div class="col-sm-4 col-6">
-                        <figure class="clients-logo">
-                            <a href="services/heat-pumps/alpha-innotec"><img alt="Logo firmy aplha innotec"
-                                                                             class="img-fluid"
-                                                                             loading="lazy"
-                                                                             src="images/clients/alpha-innotec.png"/></a>
-                        </figure>
-                    </div><!-- Client 2 end -->
-
-                    <div class="col-sm-4 col-6">
-                        <figure class="clients-logo">
-                            <a href="services/heat-pumps/lg"><img alt="Logo firmy LG" class="img-fluid"
-                                                                  loading="lazy"
-                                                                  src="images/clients/lg.png"/></a>
-                        </figure>
-                    </div><!-- Client 3 end -->
-
-                    <div class="col-sm-4 col-6">
-                        <figure class="clients-logo">
-                            <a href="services/heat-pumps/regulus"><img alt="Logo firmy Regulus"
-                                                                       class="img-fluid"
-                                                                       loading="lazy"
-                                                                       src="images/clients/regulus.png"/></a>
-                        </figure>
-                    </div><!-- Client 4 end -->
-
-
-                </div><!-- Clients row end -->
-
-            </div><!-- Col end -->
-
-        </div>
-        <!--/ Content row end -->
-    </div>
-    <!--/ Container end -->
-</section><!-- Content end -->
-
 <section class="subscribe no-padding">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12">
                 <div class="subscribe-call-to-acton">
                     <h3 class="">Zavolejte nám</h3>
-                    <h4><a href="tel:+420777701531"><i class="fas fa-phone"></i> +420 777 701 531</a></h4>
+                    <h4><a href="tel:+420775914918"><i class="fas fa-phone"></i> +420 775 914 918</a></h4>
                 </div>
             </div><!-- Col end -->
 

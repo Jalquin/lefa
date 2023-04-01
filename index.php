@@ -21,6 +21,7 @@ $pages = array(
     'garazova-vrata' => 'garazova-vrata.php',
     'site-proti-hmyzu' => 'site-proti-hmyzu.php',
     'eurookna-a-dvere' => 'eurookna-a-dvere.php',
+    'sluzby' => 'sluzby.php',
     'reference' => 'reference.php',
     'kontakt' => 'kontakt.php',
     '404' => '404.php',
@@ -49,6 +50,7 @@ $page_titles = array(
     'garazova-vrata' => 'Garážová vrata',
     'site-proti-hmyzu' => 'Sítě proti hmyzu',
     'eurookna-a-dvere' => 'Eurookna a dveře',
+    'sluzby' => 'Poskytované služby',
     'reference' => 'Reference',
     'kontakt' => 'Kontakt',
     '404' => 'Stránka nenalezena',
@@ -85,15 +87,14 @@ $template_file = 'pages/' . $pages[$page];
         echo $page_titles[$page];
         ?>
     </title>
-    <meta content="Firma LEFA SERVIS se vždy zaměřovala na poskytování vysoce kvalitních služeb, které se opírají o
-                        prvotřídní použité materiály."
-    <meta content="Jakub Červený" name=author>
+    <meta name="description" content="Firma LEFA SERVIS se vždy zaměřovala na poskytování vysoce kvalitních služeb, které se opírají o
+                        prvotřídní použité materiály.">
+    <meta name=author content="Jakub Červený">
 
     <!-- Mobile Specific Metas
   ================================================== -->
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    name="description">
-    <meta content="width=device-width, initial-scale=1.0, maximum-scale=5.0" name="viewport">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicon
   ================================================== -->
@@ -151,21 +152,21 @@ $template_file = 'pages/' . $pages[$page];
     <!-- initialize jQuery Library -->
     <script src="plugins/jQuery/jquery.min.js"></script>
     <!-- Bootstrap jQuery -->
-    <script defer src="plugins/bootstrap/bootstrap.min.js"></script>
+    <script src="plugins/bootstrap/bootstrap.min.js"></script>
     <!-- Slick Carousel -->
     <script src="plugins/slick/slick.min.js"></script>
     <script src="plugins/slick/slick-animation.min.js"></script>
     <!-- Color box -->
     <script src="plugins/colorbox/jquery.colorbox.js"></script>
     <!-- shuffle -->
-    <script defer src="plugins/shuffle/shuffle.min.js"></script>
+    <script src="plugins/shuffle/shuffle.min.js"></script>
 
     <!-- Template custom -->
     <script src="js/script.js"></script>
+
     <script> // compensating body to the fixed navbar
         // Get the height of the "navbar" element
         const elemHeight = document.getElementById('navbar').offsetHeight;
-
         // Set the padding top of "content" element as the same height
         document.getElementById('content').style.paddingTop = elemHeight + 'px';
     </script>
