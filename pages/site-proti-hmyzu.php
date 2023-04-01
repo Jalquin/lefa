@@ -46,19 +46,7 @@
             <div class="page-slider mt-2" id="page-slider">
                 <div class="item">
                     <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/exterior/venkovni-rolety-drevene/venkovni-rolety-drevene.jpg"/>
-                </div>
-                <div class="item">
-                    <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/exterior/venkovni-rolety-drevene/venkovni-rolety-drevene2.jpg"/>
-                </div>
-                <div class="item">
-                    <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/exterior/venkovni-rolety-drevene/venkovni-rolety-drevene3.jpg"/>
-                </div>
-                <div class="item">
-                    <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/exterior/venkovni-rolety-drevene/venkovni-rolety-drevene4.jpg"/>
+                         src="images/services/exterior/site-proti-hmyzu/site-proti-hmyzu.jpg"/>
                 </div>
             </div><!-- Page slider end -->
 
