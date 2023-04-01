@@ -13,7 +13,7 @@
         <div class="col-md-5 mb-2 mb-md-0">
             <div class="ts-service-box-bg">
                             <span class="ts-service-icon icon-round">
-                                <i class="fas fa-map-marker-alt mr-0"></i>
+                                <i class="fas fa-map-marker-alt me-0"></i>
                             </span>
                 <div class="ts-service-box-content">
                     <h4>Adresa</h4>
@@ -28,7 +28,7 @@
             </div>
             <div class="ts-service-box-bg">
                 <span class="ts-service-icon icon-round">
-                    <i class="fa fa-envelope mr-0"></i>
+                    <i class="fa fa-envelope me-0"></i>
                 </span>
                 <div class="ts-service-box-content">
                     <h4>Napište nám</h4>
@@ -39,7 +39,7 @@
 
             <div class="ts-service-box-bg">
                 <span class="ts-service-icon icon-round">
-                    <i class="fa fa-phone-square mr-0"></i>
+                    <i class="fa fa-phone-square me-0"></i>
                 </span>
                 <div class="ts-service-box-content">
                     <h4>Zavolejte nám</h4>
@@ -76,24 +76,40 @@
                 $tel = $_POST["tel"];
                 $message = $_POST["message"];
 
-                // Construct the email message
-                $to = "cervenyjakub98@gmail.com";
-                $subject = "Zpráva z lefaservis.cz od $name";
-                $body = "Jméno: $name\n\nEmail: $email\n\nTelefon: $tel\n\nZpráva:\n$message";
-
-                // Send the email
-                if (mail($to, $subject, $body)) {
-                    $status = "success";
-                    $message = "Děkujeme za Vaši zprávu. Budeme Vás kontaktovat co nejříve.";
-                } else {
+                // Validate form fields
+                if (empty($name) || empty($email) || empty($tel) || empty($message)) {
                     $status = "danger";
-                    $message = "Při odesílání vaší zprávy došlo k chybě. Prosím zkuste to znovu později.";
+                    $message = "Všechna pole jsou povinná. Prosím vyplňte všechny pole.";
+                } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+                    $status = "danger";
+                    $message = "Zadejte platnou emailovou adresu.";
+                } elseif (!preg_match("/^[\d\s]{9,}$/", $tel)) {
+                    $status = "danger";
+                    $message = "Zadejte platné telefonní číslo.";
+                } elseif (strlen($message) < 10) {
+                    $status = "danger";
+                    $message = "Zpráva musí být delší než 10 znaků.";
+                } else {
+                    // Construct the email message
+                    $to = "cervenyjakub98@gmail.com";
+                    $subject = "Zpráva z lefaservis.cz od $name";
+                    $body = "Jméno: $name\n\nEmail: $email\n\nTelefon: $tel\n\nZpráva:\n$message";
+
+                    // Send the email
+                    if (mail($to, $subject, $body)) {
+                        $status = "success";
+                        $message = "Děkujeme za Vaši zprávu. Budeme Vás kontaktovat co nejříve.";
+                    } else {
+                        $status = "danger";
+                        $message = "Při odesílání vaší zprávy došlo k chybě. Prosím zkuste to znovu později.";
+                    }
                 }
+
+                // Generate alert message
                 $alert = '<div class="alert alert-' . $status . ' alert-dismissible fade show" role="alert">
                   ' . $message . '
-                  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                      <span aria-hidden="true">&times;</span>
-                  </button>
+                   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+
               </div>';
             } else {
                 // Set default alert message
@@ -106,35 +122,35 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="form-group">
-                            <label for="name">Jméno</label>
-                            <input class="form-control form-control-name" id="name" name="name" placeholder=""
-                                   required type="text">
+                            <label class="form-label" for="name">Jméno</label>
+                            <input class="form-control" id="name" name="name" placeholder="Jan Novák"
+                                   required type="text" value="<?php echo isset($_POST['name']) ? htmlspecialchars($_POST['name']) : ''; ?>">
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
-                            <label for="email">E-mail</label>
-                            <input class="form-control form-control-email" id="email" name="email"
-                                   placeholder="" required
-                                   type="email">
+                            <label class="form-label" for="email">E-mail</label>
+                            <input class="form-control" id="email" name="email"
+                                   placeholder="jan.novak@email.cz" required
+                                   type="email" value="<?php echo isset($_POST['email']) ? htmlspecialchars($_POST['email']) : ''; ?>">
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-12">
                         <div class="form-group">
-                            <label for="tel">Telefon</label>
-                            <input class="form-control form-control-tel" id="tel" name="tel"
-                                   placeholder="" required
-                                   type="tel">
+                            <label class="form-label" for="tel">Telefon</label>
+                            <input class="form-control" id="tel" name="tel"
+                                   placeholder="777 777 777" required
+                                   type="tel" value="<?php echo isset($_POST['tel']) ? htmlspecialchars($_POST['tel']) : ''; ?>">
                         </div>
                     </div>
                 </div>
                 <div class="form-group">
-                    <label for="message">Zpráva</label>
-                    <textarea class="form-control form-control-message" id="message" name="message"
-                              placeholder="" required
-                              rows="10"></textarea>
+                    <label class="form-label" for="message">Zpráva</label>
+                    <textarea class="form-control" id="message" name="message"
+                              placeholder="Vaše zpráva" required
+                              rows="10"><?php echo isset($_POST['message']) ? htmlspecialchars($_POST['message']) : ''; ?></textarea>
                 </div>
                 <p>Vámi zadané osobní údaje budeme zpracovávat za účelem odpovědi. Bližší informace naleznete v
                     <ins><a class="read-more" href="gdpr">zásadách zpracování osobních údajů.</a></ins>

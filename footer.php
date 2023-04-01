@@ -4,7 +4,7 @@
             <div class="row justify-content-between">
 
                 <div class="col-lg-4 col-md-6 footer-widget footer-about">
-                    <h3 class="widget-title">O nás <img alt="LEFA Servis Logo" class="footer-logo ml-5" loading="lazy"
+                    <h3 class="widget-title">O nás <img alt="LEFA Servis Logo" class="footer-logo ms-5" loading="lazy"
                                                         src="images/lefaservis_white.svg"></h3>
 
                     <p>Firma LEFA SERVIS se vždy zaměřovala na poskytování vysoce kvalitních služeb, které se opírají o

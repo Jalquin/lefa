@@ -31,7 +31,7 @@
             </ul>
 
             <h2>Vzorník barev</h2>
-            <iframe height="500" width="100%" src="/documents/shrnovaci-dvere-harmonie-vzornik-barev.pdf"></iframe>
+            <iframe height="500" width="100%" src="documents/shrnovaci-dvere-harmonie-vzornik-barev.pdf"></iframe>
 
             <h3>Konstrukční mezní hodnoty</h3>
             <table class="table table-striped">
