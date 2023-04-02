@@ -69,7 +69,7 @@
             <div class="page-slider mt-2" id="page-slider">
                 <div class="item">
                     <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/exterior/site-proti-hmyzu/site-proti-hmyzu.jpg"/>
+                         src="images/produkty/exterior/site-proti-hmyzu/site-proti-hmyzu.jpg"/>
                 </div>
             </div><!-- Page slider end -->
 

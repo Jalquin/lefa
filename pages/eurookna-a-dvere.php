@@ -39,7 +39,7 @@
             <div class="page-slider mt-2" id="page-slider">
                 <div class="item">
                     <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/exterior/eurookna-a-dvere/eurookna-a-dvere.jpg"/>
+                         src="images/products/exterior/eurookna-a-dvere/eurookna-a-dvere.jpg"/>
                 </div>
             </div><!-- Page slider end -->
 

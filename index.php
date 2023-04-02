@@ -25,7 +25,8 @@ $pages = array(
     'reference' => 'reference.php',
     'kontakty' => 'kontakty.php',
     '404' => '404.php',
-    'gdpr' => 'gdpr.php'
+    'gdpr' => 'gdpr.php',
+    'typography' => 'typography.php'
 );
 
 // Define the page titles
@@ -54,7 +55,8 @@ $page_titles = array(
     'reference' => 'Reference',
     'kontakty' => 'Kontakty',
     '404' => 'Stránka nenalezena',
-    'gdpr' => 'Zásady ochrany osobních údajů'
+    'gdpr' => 'Zásady ochrany osobních údajů',
+    'typography' => 'Typografie'
 );
 
 // Check if a page is specified in the GET parameter, default to index, if page does not exist to 404

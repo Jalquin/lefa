@@ -119,7 +119,7 @@
             <div class="page-slider mt-2" id="page-slider">
                 <div class="item">
                     <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/interior/zaluzie-horizontalni/zaluzie-horizontalni.jpg"/>
+                         src="images/produkty/interior/zaluzie-horizontalni/zaluzie-horizontalni.jpg"/>
                 </div>
             </div><!-- Page slider end -->
 

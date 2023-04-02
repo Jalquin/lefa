@@ -105,7 +105,7 @@
             <div class="page-slider mt-2" id="page-slider">
                 <div class="item">
                     <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/interior/shrnovaci-dvere-kozenkove/shrnovaci-dvere-kozenkove.jpg"/>
+                         src="images/produkty/interior/shrnovaci-dvere-kozenkove/shrnovaci-dvere-kozenkove.jpg"/>
                 </div>
             </div><!-- Page slider end -->
 

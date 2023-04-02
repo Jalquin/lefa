@@ -88,7 +88,7 @@
             <div class="page-slider mt-2" id="page-slider">
                 <div class="item">
                     <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/exterior/markyzy/markyzy.jpg"/>
+                         src="images/produkty/exterior/markyzy/markyzy.jpg"/>
                 </div>
             </div><!-- Page slider end -->
 
