@@ -65,15 +65,15 @@
             <div class="page-slider mt-2" id="page-slider">
                 <div class="item">
                     <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/exterior/venkovni-zaluzie/venkovni-zaluzie.jpg"/>
+                         src="images/produkty/exterior/venkovni-zaluzie/venkovni-zaluzie.jpg"/>
                 </div>
                 <div class="item">
                     <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/exterior/venkovni-zaluzie/venkovni-zaluzie2.jpg"/>
+                         src="images/produkty/exterior/venkovni-zaluzie/venkovni-zaluzie2.jpg"/>
                 </div>
                 <div class="item">
                     <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/exterior/venkovni-zaluzie/venkovni-zaluzie-drevene.jpg"/>
+                         src="images/produkty/exterior/venkovni-zaluzie/venkovni-zaluzie-drevene.jpg"/>
                 </div>
             </div><!-- Page slider end -->
 

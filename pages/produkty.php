@@ -5,18 +5,18 @@
             <div class="col-lg-4 col-md-6 mb-5">
                 <div class="ts-service-box">
                     <div class="ts-service-image-wrapper">
-                        <a href="services/heat-pump"><img alt="Obrázek tepelného čerpadla" class="w-100"
+                        <a href="produkty/heat-pump"><img alt="Obrázek tepelného čerpadla" class="w-100"
                                                           loading="lazy"
-                                                          src="images/services/heat-pump.jpg"></a>
+                                                          src="images/produkty/heat-pump.jpg"></a>
                     </div>
                     <div class="d-flex">
                         <div class="ts-service-info">
-                            <h2 class="service-box-title"><a href="services/heat-pump">Tepelná čerpadla</a>
+                            <h2 class="service-box-title"><a href="produkty/heat-pump">Tepelná čerpadla</a>
                             </h2>
                             <p>Specializujeme se na instalaci tepelných čerpadel vzduch-voda značek Alpha innotec,
                                 Regulus, Bosch, LG, NORDline, AC-Heating.</p>
                             <a aria-label="service-details" class="learn-more d-inline-block"
-                               href="services/heat-pump"><i class="fa fa-caret-right"></i> Více informací</a>
+                               href="produkty/heat-pump"><i class="fa fa-caret-right"></i> Více informací</a>
                         </div>
                     </div>
                 </div><!-- Service1 end -->
@@ -25,17 +25,17 @@
             <div class="col-lg-4 col-md-6 mb-5">
                 <div class="ts-service-box">
                     <div class="ts-service-image-wrapper">
-                        <a href="services/boiler"><img alt="Obrázek kotle" class="w-100" loading="lazy"
-                                                       src="images/services/boiler.jpg"></a>
+                        <a href="produkty/boiler"><img alt="Obrázek kotle" class="w-100" loading="lazy"
+                                                       src="images/produkty/boiler.jpg"></a>
                     </div>
                     <div class="d-flex">
                         <div class="ts-service-info">
-                            <h2 class="service-box-title"><a href="services/boiler">Kotle</a>
+                            <h2 class="service-box-title"><a href="produkty/boiler">Kotle</a>
                             </h2>
                             <p>Pravidelně instalujeme ekologické kotle na tuhá paliva s ručním i automatickým
                                 přikládáním.</p>
                             <a aria-label="service-details" class="learn-more d-inline-block"
-                               href="services/boiler"><i class="fa fa-caret-right"></i> Více informací</a>
+                               href="produkty/boiler"><i class="fa fa-caret-right"></i> Více informací</a>
                         </div>
                     </div>
                 </div><!-- Service2 end -->
@@ -44,17 +44,17 @@
             <div class="col-lg-4 col-md-6 mb-5">
                 <div class="ts-service-box">
                     <div class="ts-service-image-wrapper">
-                        <a href="services/grant"><img alt="Obrázek reprezentující počítání rozpočtu na dotace"
+                        <a href="produkty/grant"><img alt="Obrázek reprezentující počítání rozpočtu na dotace"
                                                       class="w-100" loading="lazy"
-                                                      src="images/services/grant.jpg"></a>
+                                                      src="images/produkty/grant.jpg"></a>
                     </div>
                     <div class="d-flex">
                         <div class="ts-service-info">
-                            <h2 class="service-box-title"><a href="services/grant">Dotace</a></h2>
+                            <h2 class="service-box-title"><a href="produkty/grant">Dotace</a></h2>
                             <p>Při realizaci ekologického kotle nebo tepelného čerpadla zařizujeme i dotaci na nový
                                 zdroj vytápění.</p>
                             <a aria-label="service-details" class="learn-more d-inline-block"
-                               href="services/grant"><i class="fa fa-caret-right"></i> Více informací</a>
+                               href="produkty/grant"><i class="fa fa-caret-right"></i> Více informací</a>
                         </div>
                     </div>
                 </div><!-- Service3 end -->
@@ -63,16 +63,16 @@
             <div class="col-lg-4 col-md-6 mb-5">
                 <div class="ts-service-box">
                     <div class="ts-service-image-wrapper">
-                        <a href="services/radiator"><img alt="Obrázek radiátoru" class="w-100" loading="lazy"
-                                                         src="images/services/radiator.jpeg"></a>
+                        <a href="produkty/radiator"><img alt="Obrázek radiátoru" class="w-100" loading="lazy"
+                                                         src="images/produkty/radiator.jpeg"></a>
                     </div>
                     <div class="d-flex">
                         <div class="ts-service-info">
-                            <h2 class="service-box-title"><a href="services/radiator">Radiátory</a></h2>
+                            <h2 class="service-box-title"><a href="produkty/radiator">Radiátory</a></h2>
                             <p>Instalace nových radiátorů nebo výměna starých otopných těles za nové. Vše na klíč
                                 včetně zaměření na místě, navržení vhodného řešení a realizace.</p>
                             <a aria-label="service-details" class="learn-more d-inline-block"
-                               href="services/radiator"><i class="fa fa-caret-right"></i> Více informací</a>
+                               href="produkty/radiator"><i class="fa fa-caret-right"></i> Více informací</a>
                         </div>
                     </div>
                 </div><!-- Service4 end -->
@@ -81,18 +81,18 @@
             <div class="col-lg-4 col-md-6 mb-5">
                 <div class="ts-service-box">
                     <div class="ts-service-image-wrapper">
-                        <a href="services/floor-heating"><img alt="Obrázek podlahového vytápění" class="w-100"
+                        <a href="produkty/floor-heating"><img alt="Obrázek podlahového vytápění" class="w-100"
                                                               loading="lazy"
-                                                              src="images/services/floor-heating.jpg"></a>
+                                                              src="images/produkty/floor-heating.jpg"></a>
                     </div>
                     <div class="d-flex">
                         <div class="ts-service-info">
-                            <h2 class="service-box-title"><a href="services/floor-heating">Podlahové
+                            <h2 class="service-box-title"><a href="produkty/floor-heating">Podlahové
                                     vytápění</a></h2>
                             <p>Instalace podlahového vytápění, dokážeme zajistit i položení polystyrénu, realizaci a
                                 následné zalití anhydritem nebo betonem.</p>
                             <a aria-label="service-details" class="learn-more d-inline-block"
-                               href="services/floor-heating"><i class="fa fa-caret-right"></i> Více
+                               href="produkty/floor-heating"><i class="fa fa-caret-right"></i> Více
                                 informací</a>
                         </div>
                     </div>
@@ -102,8 +102,8 @@
             <div class="col-lg-4 col-md-6 mb-5">
                 <div class="ts-service-box">
                     <div class="ts-service-image-wrapper">
-                        <a href="services/more"><img alt="Obrázek nářadí" class="w-100" loading="lazy"
-                                                     src="images/services/more.jpg"></a>
+                        <a href="produkty/more"><img alt="Obrázek nářadí" class="w-100" loading="lazy"
+                                                     src="images/produkty/more.jpg"></a>
                     </div>
                     <div class="d-flex">
                         <div class="ts-service-info">

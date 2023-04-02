@@ -67,7 +67,7 @@
             <div class="page-slider mt-2" id="page-slider">
                 <div class="item">
                     <img alt="project-slider-image" class="project-slider-image img-fluid"
-                         src="images/services/interior/delici-steny/delici-steny.jpg"/>
+                         src="images/produkty/interior/delici-steny/delici-steny.jpg"/>
                 </div>
             </div><!-- Page slider end -->
 
