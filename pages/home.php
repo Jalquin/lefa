@@ -43,7 +43,7 @@
                         <h2 class="slide-title-box" data-animation-in="slideInDown">Technika pro interiér</h2>
                         <h3 class="slide-title" data-animation-in="fadeIn">Horizontální žaluzie</h3>
                         <p data-animation-in="slideInLeft">
-                            <a class="slider btn btn-primary border" href="zalzuie-horizontalni">Zjistit více</a>
+                            <a class="slider btn btn-primary border" href="zaluzie-horizontalni">Zjistit více</a>
                         </p>
                     </div>
                 </div>
