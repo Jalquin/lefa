@@ -13,6 +13,7 @@
     --LEFA_grey: #808080;
     --LEFA_white: #fff;
     --background: #eee;
+    --LEFA_nav: #01a836;
 }
 
 /* Typography
@@ -105,6 +106,10 @@ html {
     position: relative;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
+}
+
+main {
+    min-height: 75vh;
 }
 
 body {
@@ -681,18 +686,12 @@ ul.top-info li p.info-text {
 
 .site-navigation img:hover {
 
-    filter: brightness(0) saturate(100%);
-    -webkit-filter: brightness(0) saturate(100%);
-
-
-}
-
-.active-png {
-
-    filter: brightness(0) saturate(100%);
-    -webkit-filter: brightness(0) saturate(100%);
-
-
+    /* --LEFA_black */ /*filter: brightness(0) saturate(100%);
+    /* --LEFA_orange */ /* filter: invert(41%) sepia(48%) saturate(3193%) hue-rotate(1deg) brightness(103%) contrast(103%);*/
+    /* --LEFA_green */ /*filter: invert(31%) sepia(100%) saturate(1641%) hue-rotate(126deg) brightness(98%) contrast(106%);*/
+    /* --LEFA_grey */ /*filter: invert(58%) sepia(1%) saturate(1309%) hue-rotate(318deg) brightness(87%) contrast(76%);*/
+    filter: drop-shadow(0px 0px 10px rgba(255,255,255,1));
+    -webkit-filter: drop-shadow(0px 0px 10px rgba(255,255,255,1));
 }
 
 ul.navbar-nav > li > a {
@@ -712,7 +711,11 @@ ul.navbar-nav > li > a {
 
 ul.navbar-nav > li:hover > a,
 ul.navbar-nav > li.active > a {
-    color: var(--LEFA_black) !important;
+    /*color: var(--LEFA_nav) !important;*/
+    /*text-decoration: underline double var(--LEFA_nav) 3px;
+    text-underline-offset: 8px;*/
+    filter: drop-shadow(0px 0px 10px rgba(255,255,255,1));
+    -webkit-filter: drop-shadow(0px 0px 10px rgba(255,255,255,1));
 }
 
 /*-- Logo --*/
@@ -864,8 +867,12 @@ ul.top-info-box > li.nav-search i {
 
 ul.navbar-nav > li:hover > a,
 ul.navbar-nav > li.active > a {
-    color: var(--LEFA_black);
     position: relative;
+    /*color: var(--LEFA_nav);*/
+    /*text-decoration: underline double var(--LEFA_nav) 3px;
+    text-underline-offset: 8px;*/
+    filter: drop-shadow(0px 0px 10px rgba(255,255,255,1));
+    -webkit-filter: drop-shadow(0px 0px 10px rgba(255,255,255,1));
 }
 
 ul.navbar-nav > li {
@@ -1004,7 +1011,11 @@ ul.navbar-nav > li > a {
 
 .dropdown-menu li a:hover,
 .dropdown-menu li a:focus {
-    color: var(--LEFA_black);
+    /*color: var(--LEFA_nav);*/
+    /*text-decoration: underline double var(--LEFA_nav) 3px;
+    text-underline-offset: 8px;*/
+    filter: drop-shadow(0px 0px 10px rgba(255,255,255,1));
+    -webkit-filter: drop-shadow(0px 0px 10px rgba(255,255,255,1));
 }
 
 @media (min-width: 992px) {
@@ -1030,7 +1041,11 @@ ul.navbar-nav > li > a {
 .dropdown-menu > .active > a:focus,
 .dropdown-menu > .active > .dropdown-menu > .active > a {
     background: none;
-    color: var(--LEFA_black);
+    /*color: var(--LEFA_nav);*/
+    /*text-decoration: underline double var(--LEFA_nav) 3px;
+    text-underline-offset: 8px;*/
+    filter: drop-shadow(0px 0px 10px rgba(255,255,255,1));
+    -webkit-filter: drop-shadow(0px 0px 10px rgba(255,255,255,1));
 }
 
 

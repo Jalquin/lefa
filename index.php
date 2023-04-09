@@ -136,12 +136,12 @@ $template_file = 'pages/' . $pages[$page];
     include('header.php');
     ?>
 
-    <div id="content" class="solid-bg">
+    <main id="content" class="solid-bg">
         <?php
         // Include the content
         include($template_file);
         ?>
-    </div>
+    </main>
 
     <?php
     // Include the footer
