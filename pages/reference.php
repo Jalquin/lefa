@@ -8,7 +8,12 @@
                 </div>
             </div>
             <!--/ Title row end -->
-
+            <div class="row">
+                <div class="col-lg-12">
+                    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+                    <div class="elfsight-app-b9073aa6-d4e8-4249-b263-48870b524648"></div>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-12">
                     <div class="shuffle-btn-group">
