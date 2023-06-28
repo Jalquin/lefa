@@ -125,6 +125,7 @@ $template_file = 'pages/' . $pages[$page];
     <link href="plugins/colorbox/colorbox.css" rel="stylesheet">
     <!-- Template styles-->
     <link href="css/style.css" rel="stylesheet">
+    <script src="https://www.google.com/recaptcha/api.js"></script>
 
 </head>
 <body>

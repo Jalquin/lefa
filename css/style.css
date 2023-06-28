@@ -99,6 +99,9 @@ h5 {
 
 /* Global styles
 ================================================== */
+
+.grecaptcha-badge { visibility: hidden; }
+
 html {
     overflow-x: hidden !important;
     width: 100%;

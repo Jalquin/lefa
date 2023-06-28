@@ -122,7 +122,7 @@
             ?>
 
             <?php echo $alert; ?>
-            <form action="#contact-form" method="post">
+            <form id="form" action="#contact-form" method="post">
                 <div class="row">
                     <div class="col-md-6">
                         <div class="form-group">
@@ -172,10 +172,15 @@
                     <ins><a class="read-more" href="gdpr">zásadách zpracování osobních údajů.</a></ins>
                 </p>
                 <div class="text-right">
-                    <button class="btn btn-primary solid blank" type="submit">Odeslat</button>
+                    <button class="btn btn-primary solid blank g-recaptcha" data-sitekey="6LeXWdsmAAAAAJIMnicGQ8DT7qDqeQzDxrVcFdda" data-callback='onSubmit' data-action='submit' type="submit">Odeslat</button>
                 </div>
             </form>
         </div>
 
     </div><!-- Content row -->
 </section><!-- Main container end -->
+<script>
+    function onSubmit(token) {
+        document.getElementById("form").submit();
+    }
+</script>
